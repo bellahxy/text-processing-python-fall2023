@@ -1,0 +1,1968 @@
+Appendix B BRAC 2005 Closure and Realignment Impacts by Economic Area
+Note
+The listing of installations in this appendix does not include BRAC actions for where there are no (zero) net job changes. In a limited number of cases, the impact of National Guard or Reserve facility job changes were aggregated with those of the closest active military installation, or of a nearby National Guard or Reserve facility.
+Definitions
+Economic Area is the economic region of influence assigned to each installation for BRAC 2005. Details on the assignment of installations to economic areas can be found in the description of the activities of Joint Process Action Team 6.
+Installation is the common name of the installation. In a limited number of cases, the impact of National Guard or Reserve facility job changes were aggregated with those of the closest active military installation, or of a nearby guard or reserve facility.
+Action is the BRAC 2005 action for the installation, such as close, realign, or gain.
+Out Mil is the number of military personnel authorizations that are either eliminated or re-located from the installation to a new location outside of their current economic area. Relocations within the same economic area do not constitute a BRAC economic impact.
+Out Civ is the number of civilian personnel authorizations that are either eliminated or re-located from the installation to a new location outside of their current economic area. Relocations within the same economic area do not constitute a BRAC economic impact.
+In Mil is the number of military personnel authorizations relocating into the installation from another economic area.
+In Civ is the number of civilian personnel authorizations relocating into the installation from another economic area.
+Net Gain/(Loss) Mil is the net change in the number of military personnel authorizations by installation.
+B - i
+________________
+Net Gain/(Loss) Civ is the net change in the number of civilian personnel authorizations by installation.
+Net Mission Contractors is the change in the number non-government employees who perform one or more of the military missions on the installation, and whose work tasks are virtually identical to government civilian employees or military personnel, expressed in full time equivalents.
+Indirect Changes is the sum of estimated indirect and induced job changes in the community associated with the change in Total Direct Jobs. Indirect job changes are the net addition or loss of local non-government jobs supporting installation material, service, and infrastructure needs, such as a local motor pool parts distributors or base operations support (BOS) contractors. Induced job changes are the net addition or loss of local non-government jobs in industries that provide goods or services to the households of direct or indirect installation employees. Examples include local grocery stores, retail stores, and restaurants.
+Total Job Changes is the sum of the Total Direct and Indirect Changes entries.
+Economic Area Employment is employment in the economic area for calendar year 2002, which was the most recent official employment data available from the Department of Commerce’s Bureau of Economic Analysis (BEA) at the time of the development of the BRAC 2005 Economic Impact Tool.
+Changes as a Percent of Employment is the result of dividing Total Job Changes by Economic Area Employment.
+B - ii
+________________
+BRAC 2005 Closure and Realignment Impacts by Economic Area
+Economic Area Installation Action
+Mil Civ Mil Civ Mil Civ
+Changes as Percent of Employment
+Abilene, TX Metropolitan Statistical Area
+Dyess Air Force Base Gain (1,615) (65) 1,925 129 310 64 0 374 358 732 92,846 0.8%
+Total (1,615) (65) 1,925 129 310 64 0 374 358 732 92,846 0.8%
+Aguadilla-Isabela-San Sebastian, PR Metropolitan Statistical Area
+Aguadillla-Ramey U.S. Army Reserve Center/BMA-126
+Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+Realign (10) 0 0 0 (10) 0 0 (10) (5) (15) 80,981 0.0%
+Total (10) 0 0 0 (10) 0 0 (10) (5) (15) 80,981 0.0%
+Akron, OH Metropolitan Statistical Area
+Navy-Marine Corps Reserve Center Akron
+Close (26) 0 0 0 (26) 0 0 (26) (10) (36) 398,976 0.0%
+Armed Forces Reserve Center Akron
+Gain 0 0 37 0 37 0 0 37 14 51 398,976 0.0%
+Total (26) 0 37 0 11 0 0 11 4 15 398,976 0.0%
+Alamogordo, NM Micropolitan Statistical Area
+Holloman Air Force Base Realign (17) 0 0 0 (17) 0 0 (17) (11) (28) 27,515 -0.1%
+Total (17) 0 0 0 (17) 0 0 (17) (11) (28) 27,515 -0.1%
+Albany, GA Metropolitan Statistical Area
+Marine Corps Logistics Base Albany
+Gain (2) (42) 1 193 (1) 151 0 150 119 269 79,160 0.3%
+Total (2) (42) 1 193 (1) 151 0 150 119 269 79,160 0.3%
+Albany-Schenectady-Troy, NY Metropolitan Statistical Area
+Schenectady County Air Guard Station
+Realign (10) (9) 0 0 (10) (9) 0 (19) (19) (38) 529,819 0.0%
+Total (10) (9) 0 0 (10) (9) 0 (19) (19) (38) 529,819 0.0%
+This list does not include locations where no changes in military or civilian jobs are affected. B-1 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Albemarle, NC Micropolitan Statistical Area
+Niven U.S. Army Reserve Center,
+Close (34) 0 0 5 (34) 5 0 (29) (13) (42) 26,102 -0.2% Albermarle
+Total (34) 0 0 5 (34) 5 0 (29) (13) (42) 26,102 -0.2%
+Albuquerque, NM Metropolitan Statistical Area
+Jenkins Armed Forces Reserve Center Albuquerque
+Close (35) (1) 0 0 (35) (1) 0 (36) (29) (65) 454,397 0.0%
+Kirtland Air Force Base Gain (7) 0 37 176 30 176 0 206 206 412 454,397 0.1%
+Total (42) (1) 37 176 (5) 175 0 170 177 347 454,397 0.1%
+Allentown-Bethlehem-Easton, PA-NJ Metropolitan Statistical Area
+Navy-Marine Corps Reserve Center Lehigh
+Gain 0 0 8 0 8 0 0 8 3 11 396,091 0.0%
+Total 0 0 8 0 8 0 0 8 3 11 396,091 0.0%
+Altus, OK Micropolitan Statistical Area
+Altus Air Force Base Realign (16) 0 0 0 (16) 0 0 (16) (10) (26) 16,463 -0.2%
+Total (16) 0 0 0 (16) 0 0 (16) (10) (26) 16,463 -0.2%
+Anchorage, AK Metropolitan Statistical Area
+Kulis Air Guard Station Close (218) (241) 0 0 (218) (241) 0 (459) (377) (836) 211,967 -0.4%
+Elmendorf Air Force Base Realign (1,499) (65) 397 233 (1,102) 168 0 (934) (643) (1,577) 211,967 -0.7%
+Fort Richardson Realign (86) (199) 0 0 (86) (199) (1) (286) (244) (530) 211,967 -0.3%
+Total (1,803) (505) 397 233 (1,406) (272) (1) (1,679) (1,264) (2,943) 211,967 -1.4%
+Anniston-Oxford, AL Metropolitan Statistical Area
+Anniston Army Depot Gain 0 (87) 0 1,121 0 1,034 0 1,034 766 1,800 60,648 3.0%
+Total 0 (87) 0 1,121 0 1,034 0 1,034 766 1,800 60,648 3.0%
+This list does not include locations where no changes in military or civilian jobs are affected. B-2 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Aroostook County, ME
+Defense Finance and Accounting
+Close 0 (241) 0 0 0 (241) 0 (241) (149) (390) 41,134 -0.9% Service, Limestone
+Total 0 (241) 0 0 0 (241) 0 (241) (149) (390) 41,134 -0.9%
+Asheville, NC Metropolitan Statistical Area
+Navy Reserve Center Asheville Close (7) 0 0 0 (7) 0 0 (7) (2) (9) 217,211 0.0%
+Total (7) 0 0 0 (7) 0 0 (7) (2) (9) 217,211 0.0%
+Athens-Clarke County, GA Metropolitan Statistical Area
+Naval Supply Corps School Athens
+Close (393) (108) 4 0 (389) (108) (16) (513) (317) (830) 96,829 -0.9%
+Total (393) (108) 4 0 (389) (108) (16) (513) (317) (830) 96,829 -0.9%
+Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area
+Fort Gillem Close (517) (570) 6 0 (511) (570) 0 (1,081) (734) (1,815) 2,777,548 -0.1%
+Fort McPherson Close (2,260) (1,881) 0 0 (2,260) (1,881) 0 (4,141) (2,705) (6,846) 2,777,548 -0.2%
+Naval Air Station Atlanta Close (1,274) (156) 0 0 (1,274) (156) (68) (1,498) (807) (2,305) 2,777,548 -0.1%
+Peachtree Leases Atlanta Close (65) (97) 0 0 (65) (97) 0 (162) (114) (276) 2,777,548 0.0%
+Dobbins Air Reserve Base Gain 0 0 73 45 73 45 0 118 74 192 2,777,548 0.0%
+Total (4,116) (2,704) 79 45 (4,037) (2,659) (68) (6,764) (4,286) (11,050) 2,777,548 -0.4%
+Atlantic City, NJ Metropolitan Statistical Area
+Atlantic City International Airport Air Guard Station
+Gain (3) (53) 62 263 59 210 0 269 207 476 175,797 0.3%
+Total (3) (53) 62 263 59 210 0 269 207 476 175,797 0.3%
+Bakersfield, CA Metropolitan Statistical Area
+Edwards Air Force Base Gain (14) 0 23 42 9 42 0 51 62 113 325,440 0.0%
+Naval Air Weapons Station China Lake
+Gain (44) (14) 198 2,329 154 2,315 0 2,469 3,129 5,598 325,440 1.7%
+Total (58) (14) 221 2,371 163 2,357 0 2,520 3,191 5,711 325,440 1.8%
+This list does not include locations where no changes in military or civilian jobs are affected. B-3 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Baltimore-Towson, MD Metropolitan Statistical Area
+Leased Space - MD Close/Realign (3) (121) 0 0 (3) (121) 0 (124) (118) (242) 1,568,140 0.0%
+Aberdeen Proving Ground Gain (3,862) (290) 451 5,661 (3,411) 5,371 216 2,176 2,814 4,990 1,568,140 0.3%
+Fort Meade Gain (2) 0 684 2,915 682 2,915 1,764 5,361 4,875 10,236 1,568,140 0.7%
+Martin State Airport Air Guard
+Realign (17) (106) 0 0 (17) (106) 0 (123) (114) (237) 1,568,140 0.0% Station Naval Station Annapolis Realign 0 (13) 0 0 0 (13) 0 (13) (12) (25) 1,568,140 0.0%
+Total (3,884) (530) 1,135 8,576 (2,749) 8,046 1,980 7,277 7,445 14,722 1,568,140 0.9%
+Bangor, ME Metropolitan Statistical Area
+Naval Reserve Center, Bangor Close (7) 0 0 0 (7) 0 0 (7) (2) (9) 92,291 0.0%
+Bangor International Airport Air Guard Station
+Gain 0 0 45 195 45 195 0 240 173 413 92,291 0.4%
+Total (7) 0 45 195 38 195 0 233 171 404 92,291 0.4%
+Barnstable Town, MA Metropolitan Statistical Area
+Otis Air Guard Base Close (62) (443) 0 0 (62) (443) 0 (505) (322) (827) 137,499 -0.6%
+Total (62) (443) 0 0 (62) (443) 0 (505) (322) (827) 137,499 -0.6%
+Baton Rouge, LA Metropolitan Statistical Area
+Baton Rouge Army National Guard Reserve Center
+Close (128) 0 11 0 (117) 0 0 (117) (57) (174) 411,691 0.0%
+Navy-Marine Corps Reserve Center Baton Rouge
+Close (18) 0 0 0 (18) 0 0 (18) (8) (26) 411,691 0.0%
+Roberts U.S. Army Reserve Center, Baton Rouge
+Close (30) 0 0 0 (30) 0 0 (30) (14) (44) 411,691 0.0%
+Total (176) 0 11 0 (165) 0 0 (165) (79) (244) 411,691 -0.1%
+Battle Creek, MI Metropolitan Statistical Area
+W. K. Kellogg Airport Air Guard Station
+Close (68) (206) 0 0 (68) (206) 0 (274) (166) (440) 74,652 -0.6%
+Total (68) (206) 0 0 (68) (206) 0 (274) (166) (440) 74,652 -0.6%
+This list does not include locations where no changes in military or civilian jobs are affected. B-4 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Beaumont-Port Arthur, TX Metropolitan Statistical Area
+Navy Reserve Center Orange,TX Close (11) 0 0 0 (11) 0 0 (11) (6) (17) 193,048 0.0%
+Total (11) 0 0 0 (11) 0 0 (11) (6) (17) 193,048 0.0%
+Bethesda-Frederick-Gaithersburg, MD Metropolitan Division
+PFC Flair U.S. Army Reserve
+Close (20) (2) 0 0 (20) (2) 0 (22) (15) (37) 727,010 0.0% Center, Frederick Fort Detrick Gain 0 0 76 43 76 43 (15) 104 81 185 727,010 0.0%
+National Naval Medical Center Bethesda
+Gain 0 0 982 936 982 936 (29) 1,889 1,529 3,418 727,010 0.5%
+Naval Surface Weapons Station Carderock
+Gain 0 0 0 6 0 6 0 6 5 11 727,010 0.0%
+Army Research Laboratory, Adelphi
+Realign 0 (43) 0 0 0 (43) 0 (43) (39) (82) 727,010 0.0%
+I-270 Corridor Realign (16) (35) 0 0 (16) (35) 0 (51) (38) (89) 727,010 0.0%
+Total (36) (80) 1,058 985 1,022 905 (44) 1,883 1,523 3,406 727,010 0.5%
+Birmingham-Hoover, AL Metropolitan Statistical Area
+Fort Hanna Army National Guard Reserve Center Birmingham
+Close (28) 0 0 0 (28) 0 0 (28) (12) (40) 622,605 0.0%
+Birmingham Armed Forces Reserve Center
+Realign (146) (159) 0 0 (146) (159) 0 (305) (193) (498) 622,605 -0.1%
+Birmingham International Airport Air Guard Station
+Realign (66) (117) 0 0 (66) (117) 0 (183) (124) (307) 622,605 0.0%
+Total (240) (276) 0 0 (240) (276) 0 (516) (329) (845) 622,605 -0.1%
+Bloomsburg-Berwick, PA Micropolitan Statistical Area
+U.S. Army Reserve Center Bloomsburg
+Close (20) (2) 0 0 (20) (2) 0 (22) (12) (34) 49,836 -0.1%
+Total (20) (2) 0 0 (20) (2) 0 (22) (12) (34) 49,836 -0.1%
+Boise City-Nampa, ID Metropolitan Statistical Area
+Boise Air Terminal Air Guard Station
+Realign (22) (62) 0 1 (22) (61) 0 (83) (73) (156) 314,811 0.0%
+Total (22) (62) 0 1 (22) (61) 0 (83) (73) (156) 314,811 0.0%
+This list does not include locations where no changes in military or civilian jobs are affected. B-5 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Boston-Quincy, MA Metropolitan Division
+Naval Shipyard Puget Sound-
+Realign 0 (108) 0 0 0 (108) 0 (108) (105) (213) 1,343,997 0.0% Boston Detachment
+Total 0 (108) 0 0 0 (108) 0 (108) (105) (213) 1,343,997 0.0%
+Bremerton-Silverdale, WA Metropolitan Statistical Area
+Human Resources Support Center Northwest
+Gain 0 0 0 23 0 23 0 23 24 47 119,170 0.0%
+Naval Station Bremerton Gain 0 0 0 1,401 0 1,401 0 1,401 1,475 2,876 119,170 2.4%
+Submarine Base Bangor Realign 0 (1) 0 0 0 (1) 0 (1) (1) (2) 119,170 0.0%
+Total 0 (1) 0 1,424 0 1,423 0 1,423 1,498 2,921 119,170 2.5%
+Bridgeport-Stamford-Norwalk, CT Metropolitan Statistical Area
+Turner U.S. Army Reserve Center, Fairfield
+Close (13) (4) 0 0 (13) (4) 0 (17) (10) (27) 578,009 0.0%
+Total (13) (4) 0 0 (13) (4) 0 (17) (10) (27) 578,009 0.0%
+Buffalo-Niagara Falls, NY Metropolitan Statistical Area
+Army National Guard Reserve Center Niagara Falls
+Close (1) 0 0 0 (1) 0 0 (1) 0 (1) 643,318 0.0%
+Navy Recruiting District Headquarters Buffalo
+Close (25) (6) 0 0 (25) (6) (6) (37) (16) (53) 643,318 0.0%
+Niagara Falls International Airport Air Guard Station
+Close (115) (527) 0 0 (115) (527) 0 (642) (430) (1,072) 643,318 -0.2%
+Total (141) (533) 0 0 (141) (533) (6) (680) (446) (1,126) 643,318 -0.2%
+Burlington-South Burlington, VT Metropolitan Statistical Area
+Burlington International Airport Air Guard Station
+Gain 0 0 3 53 3 53 0 56 39 95 145,790 0.1%
+Total 0 0 3 53 3 53 0 56 39 95 145,790 0.1%
+This list does not include locations where no changes in military or civilian jobs are affected. B-6 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Cambridge-Newton-Framingham, MA Metropolitan Division
+Malony U.S. Army Reserve Center Close (100) (55) 0 0 (100) (55) 0 (155) (87) (242) 1,054,892 0.0%
+Hanscom Air Force Base Gain (47) (223) 546 828 499 605 0 1,104 662 1,766 1,054,892 0.2%
+Natick Soldier Systems Center Realign 0 (19) 0 0 0 (19) 0 (19) (12) (31) 1,054,892 0.0%
+Total (147) (297) 546 828 399 531 0 930 563 1,493 1,054,892 0.1%
+Camden, NJ Metropolitan Division
+SFC Nelson V. Brittin U.S. Army
+Close (34) (1) 0 0 (34) (1) 0 (35) (29) (64) 619,919 0.0% Reserve Center Fort Dix Gain 0 0 209 144 209 144 0 353 326 679 619,919 0.1%
+McGuire Air Force Base Gain 0 0 498 37 498 37 0 535 450 985 619,919 0.2%
+Total (34) (1) 707 181 673 180 0 853 747 1,600 619,919 0.3%
+Cape Girardeau-Jackson, MO-IL Micropolitan Statistical Area
+Navy Reserve Center Cape Girardeau
+Close (7) 0 0 0 (7) 0 0 (7) (1) (8) 59,473 0.0%
+Total (7) 0 0 0 (7) 0 0 (7) (1) (8) 59,473 0.0%
+Carbondale, IL Micropolitan Statistical Area
+Armed Forces Reserve Center Carbondale
+Close (32) 0 0 0 (32) 0 0 (32) (17) (49) 38,275 -0.1%
+Total (32) 0 0 0 (32) 0 0 (32) (17) (49) 38,275 -0.1%
+Cedar Rapids, IA Metropolitan Statistical Area
+Navy Reserve Center Cedar Rapds
+Close (7) 0 0 0 (7) 0 0 (7) (2) (9) 162,044 0.0%
+Total (7) 0 0 0 (7) 0 0 (7) (2) (9) 162,044 0.0%
+Chambersburg, PA Micropolitan Statistical Area
+Letterkenny Army Depot Gain 0 0 0 409 0 409 0 409 223 632 65,783 1.0%
+Total 0 0 0 409 0 409 0 409 223 632 65,783 1.0%
+This list does not include locations where no changes in military or civilian jobs are affected. B-7 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Charleston, WV Metropolitan Statistical Area
+Yeager Airport Air Guard Station Realign (27) (129) 0 0 (27) (129) 0 (156) (89) (245) 176,245 -0.1%
+Total (27) (129) 0 0 (27) (129) 0 (156) (89) (245) 176,245 -0.1%
+Charleston-North Charleston, SC Metropolitan Statistical Area
+Defense Finance and Accounting Service, Charleston
+Close 0 (368) 0 0 0 (368) 0 (368) (607) (975) 331,580 -0.3%
+South Naval Facilities Engineering Command
+Close (6) (492) 0 0 (6) (492) (45) (543) (890) (1,433) 331,580 -0.4%
+Naval Weapons Station Charleston
+Realign (170) (149) 45 24 (125) (125) 0 (250) (379) (629) 331,580 -0.2%
+Total (176) (1,009) 45 24 (131) (985) (45) (1,161) (1,876) (3,037) 331,580 -0.9%
+Charlotte-Gastonia-Concord, NC-SC Metropolitan Statistical Area
+Charlotte/Douglas International Airport
+Gain 0 0 6 0 6 0 0 6 2 8 936,991 0.0%
+Total 0 0 6 0 6 0 0 6 2 8 936,991 0.0%
+Cheyenne, WY Metropolitan Statistical Area
+Army Aviation Support Facility Cheyenne
+Close (23) 0 0 0 (23) 0 0 (23) (10) (33) 55,849 -0.1%
+Cheyenne Airport Air Guard Station
+Gain 0 0 21 58 21 58 0 79 48 127 55,849 0.2%
+Total (23) 0 21 58 (2) 58 0 56 38 94 55,849 0.2%
+Chicago-Naperville-Joliet, IL Metropolitan Division
+Navy Reserve Center Forest Park Close (15) 0 0 0 (15) 0 0 (15) (4) (19) 4,607,077 0.0%
+Total (15) 0 0 0 (15) 0 0 (15) (4) (19) 4,607,077 0.0%
+Clarksville, TN-KY Metropolitan Statistical Area
+Fort Campbell Realign (433) 0 73 9 (360) 9 0 (351) (252) (603) 128,456 -0.5%
+Total (433) 0 73 9 (360) 9 0 (351) (252) (603) 128,456 -0.5%
+This list does not include locations where no changes in military or civilian jobs are affected. B-8 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Cleveland-Elyria-Mentor, OH Metropolitan Statistical Area
+Navy-Marine Corps Reserve Center Cleveland
+Close (24) (1) 0 0 (24) (1) 0 (25) (8) (33) 1,301,423 0.0%
+Defense Finance and Accounting Service, Cleveland
+Realign (15) (1,013) 0 0 (15) (1,013) 0 (1,028) (847) (1,875) 1,301,423 -0.1%
+Total (39) (1,014) 0 0 (39) (1,014) 0 (1,053) (855) (1,908) 1,301,423 -0.1%
+Clovis, NM Micropolitan Statistical Area
+Cannon Air Force Base Close (2,385) (384) 0 0 (2,385) (384) (55) (2,824) (1,955) (4,779) 23,348 -20.5%
+Total (2,385) (384) 0 0 (2,385) (384) (55) (2,824) (1,955) (4,779) 23,348 -20.5%
+Colorado Springs, CO Metropolitan Statistical Area
+Leased Space - CO Close/Realign 0 (11) 0 0 0 (11) 0 (11) (11) (22) 349,783 0.0%
+Fort Carson Gain 0 0 4,178 199 4,178 199 0 4,377 3,310 7,687 349,783 2.2%
+Peterson Air Force Base Gain 0 (27) 482 19 482 (8) 36 510 375 885 349,783 0.3%
+Schriever Air Force Base Gain 0 0 44 51 44 51 0 95 85 180 349,783 0.1%
+United States Air Force Academy Realign (30) (9) 0 0 (30) (9) (1) (40) (32) (72) 349,783 0.0%
+Total (30) (47) 4,704 269 4,674 222 35 4,931 3,727 8,658 349,783 2.5%
+Columbia, SC Metropolitan Statistical Area
+Fort Jackson Gain 0 0 435 180 435 180 0 615 368 983 418,871 0.2%
+McEntire Air Guard Station Gain 0 0 418 8 418 8 0 426 260 686 418,871 0.2%
+Total 0 0 853 188 853 188 0 1,041 628 1,669 418,871 0.4%
+Columbus, GA-AL Metropolitan Statistical Area
+U.S. Army Reserve Center Columbus
+Close (9) 0 0 0 (9) 0 0 (9) (5) (14) 163,565 0.0%
+Fort Benning Gain (842) (69) 10,063 687 9,221 618 0 9,839 4,003 13,842 163,565 8.5%
+Total (851) (69) 10,063 687 9,212 618 0 9,830 3,998 13,828 163,565 8.5%
+This list does not include locations where no changes in military or civilian jobs are affected. B-9 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Columbus, MS Micropolitan Statistical Area
+Columbus Air Force Base Gain 0 0 104 3 104 3 0 107 70 177 34,053 0.5%
+Total 0 0 104 3 104 3 0 107 70 177 34,053 0.5%
+Columbus, NE Micropolitan Statistical Area
+Army National Guard Reserve
+Close (31) 0 0 0 (31) 0 0 (31) (16) (47) 22,545 -0.2% Center Columbus
+Total (31) 0 0 0 (31) 0 0 (31) (16) (47) 22,545 -0.2%
+Columbus, OH Metropolitan Statistical Area
+Army National Guard Reserve Center Westerville
+Close (12) 0 0 0 (12) 0 0 (12) (4) (16) 1,122,033 0.0%
+U.S. Army Reserve Center Whitehall
+Close (25) 0 0 0 (25) 0 0 (25) (9) (34) 1,122,033 0.0%
+Leased Space - OH Close/Realign 0 (187) 0 0 0 (187) 0 (187) (153) (340) 1,122,033 0.0%
+Defense Supply Center Columbus Gain (2) (960) 65 2,655 63 1,695 0 1,758 1,412 3,170 1,122,033 0.3%
+Rickenbacker International Airport Air Guard Station
+Gain 0 0 0 1 0 1 0 1 0 1 1,122,033 0.0%
+Rickenbacker Army National Guard Bldg 943 Columbus
+Realign (4) 0 0 0 (4) 0 0 (4) (1) (5) 1,122,033 0.0%
+Total (43) (1,147) 65 2,656 22 1,509 0 1,531 1,245 2,776 1,122,033 0.2%
+Corpus Christi, TX Metropolitan Statistical Area
+Naval Station Ingleside Close (1,901) (260) 0 0 (1,901) (260) (57) (2,218) (2,582) (4,800) 221,376 -2.2%
+Corpus Christi Army Depot Realign 0 (92) 0 0 0 (92) 0 (92) (132) (224) 221,376 -0.1%
+Naval Air Station Corpus Christi Realign (926) (89) 0 0 (926) (89) (10) (1,025) (1,183) (2,208) 221,376 -1.0%
+Total (2,827) (441) 0 0 (2,827) (441) (67) (3,335) (3,897) (7,232) 221,376 -3.3%
+Dallas-Plano-Irving, TX Metropolitan Division
+Army National Guard Reserve Center # 2 Dallas
+Close (90) 0 0 0 (90) 0 0 (90) (48) (138) 2,410,769 0.0%
+Army National Guard Reserve Center California Crossing
+Close (47) 0 0 0 (47) 0 0 (47) (25) (72) 2,410,769 0.0%
+Total (137) 0 0 0 (137) 0 0 (137) (73) (210) 2,410,769 0.0%
+This list does not include locations where no changes in military or civilian jobs are affected. B-10 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Davenport-Moline-Rock Island, IA-IL Metropolitan Statistical Area
+Rock Island Arsenal Realign (3) (1,537) 157 120 154 (1,417) 0 (1,263) (1,171) (2,434) 229,053 -1.1%
+Total (3) (1,537) 157 120 154 (1,417) 0 (1,263) (1,171) (2,434) 229,053 -1.1%
+Dayton, OH Metropolitan Statistical Area
+Defense Finance and Accounting
+Close 0 (230) 0 0 0 (230) 0 (230) (194) (424) 512,393 -0.1% Service, Dayton Wright Patterson Air Force Base Gain (69) (729) 658 559 589 (170) 75 494 376 870 512,393 0.2%
+Glenn Research Center Realign 0 (50) 0 0 0 (50) 0 (50) (42) (92) 512,393 0.0%
+Total (69) (1,009) 658 559 589 (450) 75 214 140 354 512,393 0.1%
+Del Rio, TX Micropolitan Statistical Area
+Laughlin Air Force Base Gain 0 0 102 80 102 80 0 182 137 319 21,096 1.5%
+Total 0 0 102 80 102 80 0 182 137 319 21,096 1.5%
+Denver-Aurora, CO Metropolitan Statistical Area
+Buckley Air Force Base Gain 0 0 13 81 13 81 0 94 78 172 1,545,580 0.0%
+Air Reserve Personnel Center Realign (159) (1,447) 57 1,500 (102) 53 (59) (108) (54) (162) 1,545,580 0.0%
+Total (159) (1,447) 70 1,581 (89) 134 (59) (14) 24 10 1,545,580 0.0%
+Des Moines, IA Metropolitan Statistical Area
+Des Moines International Airport Air Guard Station
+Gain (31) (172) 54 196 23 24 0 47 27 74 362,215 0.0%
+Armed Forces Reserve Center Camp Dodge
+Realign (217) (1) 0 0 (217) (1) 0 (218) (84) (302) 362,215 -0.1%
+Total (248) (173) 54 196 (194) 23 0 (171) (57) (228) 362,215 -0.1%
+Detroit-Livonia-Dearborn, MI Metropolitan Division
+Detroit Arsenal Gain (4) (104) 4 751 0 647 0 647 407 1,054 994,108 0.1%
+Total (4) (104) 4 751 0 647 0 647 407 1,054 994,108 0.1%
+This list does not include locations where no changes in military or civilian jobs are affected. B-11 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Dover, DE Metropolitan Statistical Area
+Dover Air Force Base Gain 0 0 115 133 115 133 0 248 254 502 74,718 0.7%
+Total 0 0 115 133 115 133 0 248 254 502 74,718 0.7%
+Dubuque, IA Metropolitan Statistical Area
+Navy-Marine Corps Reserve
+Close (19) (5) 0 0 (19) (5) 0 (24) (8) (32) 62,005 -0.1% Center Dubuque
+Total (19) (5) 0 0 (19) (5) 0 (24) (8) (32) 62,005 -0.1%
+Duluth, MN-WI Metropolitan Statistical Area
+Navy Reserve Center Duluth Close (8) 0 0 0 (8) 0 0 (8) (2) (10) 157,359 0.0%
+Total (8) 0 0 0 (8) 0 0 (8) (2) (10) 157,359 0.0%
+Durham, NC Metropolitan Statistical Area
+Army Research Office, Durham Realign (1) (113) 0 0 (1) (113) 0 (114) (67) (181) 319,576 -0.1%
+Total (1) (113) 0 0 (1) (113) 0 (114) (67) (181) 319,576 -0.1%
+Edison, NJ Metropolitan Division
+Fort Monmouth Close (620) (4,652) 0 0 (620) (4,652) 0 (5,272) (4,465) (9,737) 1,220,335 -0.8%
+Kilmer U.S. Army Reserve Center, Edison
+Close (23) (21) 0 0 (23) (21) 0 (44) (31) (75) 1,220,335 0.0%
+Naval Air Engineering Station Lakehurst
+Realign (132) (54) 0 0 (132) (54) 0 (186) (123) (309) 1,220,335 0.0%
+Naval Weapons Station Earle Realign 0 (63) 2 0 2 (63) 0 (61) (54) (115) 1,220,335 0.0%
+Total (775) (4,790) 2 0 (773) (4,790) 0 (5,563) (4,673) (10,236) 1,220,335 -0.8%
+El Dorado, AR Micropolitan Statistical Area
+El Dorado Armed Forces Reserve Center
+Close (24) 0 0 0 (24) 0 0 (24) (12) (36) 29,093 -0.1%
+Total (24) 0 0 0 (24) 0 0 (24) (12) (36) 29,093 -0.1%
+This list does not include locations where no changes in military or civilian jobs are affected. B-12 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+El Paso, TX Metropolitan Statistical Area
+Army National Guard Reserve
+Close (106) 0 0 0 (106) 0 0 (106) (81) (187) 328,741 -0.1% Center (Hondo Pass) El Paso Fort Bliss Gain (4,564) (223) 15,918 370 11,354 147 0 11,501 8,882 20,383 328,741 6.2%
+Total (4,670) (223) 15,918 370 11,248 147 0 11,395 8,801 20,196 328,741 6.1%
+Elizabethtown, KY Metropolitan Statistical Area
+Fort Knox Realign (10,159) (772) 5,292 2,511 (4,867) 1,739 184 (2,944) 8 (2,936) 65,926 -4.5%
+Total (10,159) (772) 5,292 2,511 (4,867) 1,739 184 (2,944) 8 (2,936) 65,926 -4.5%
+Elmira, NY Metropolitan Statistical Area
+Navy Reserve Center Horsehead Close (7) 0 0 0 (7) 0 0 (7) (6) (13) 50,494 0.0%
+Total (7) 0 0 0 (7) 0 0 (7) (6) (13) 50,494 0.0%
+Enid, OK Micropolitan Statistical Area
+Vance Air Force Base Gain 0 0 93 6 93 6 0 99 94 193 34,406 0.6%
+Total 0 0 93 6 93 6 0 99 94 193 34,406 0.6%
+Enterprise-Ozark, AL Micropolitan Statistical Area
+Gary U.S. Army Reserve Center Enterprize
+Close (9) (1) 0 0 (9) (1) 0 (10) (8) (18) 48,094 0.0%
+Fort Rucker Gain (423) (80) 2,157 234 1,734 154 0 1,888 1,689 3,577 48,094 7.4%
+Total (432) (81) 2,157 234 1,725 153 0 1,878 1,681 3,559 48,094 7.4%
+Evansville, IN-KY Metropolitan Statistical Area
+Navy Reserve Center Evansville Close (7) 0 0 0 (7) 0 0 (7) (1) (8) 212,719 0.0%
+Total (7) 0 0 0 (7) 0 0 (7) (1) (8) 212,719 0.0%
+This list does not include locations where no changes in military or civilian jobs are affected. B-13 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Fairbanks, AK Metropolitan Statistical Area
+Eielson Air Force Base Realign (2,821) (319) 0 0 (2,821) (319) 200 (2,940) (1,770) (4,710) 54,469 -8.6%
+Total (2,821) (319) 0 0 (2,821) (319) 200 (2,940) (1,770) (4,710) 54,469 -8.6%
+Fairmont, WV Micropolitan Statistical Area
+Fairmont U.S. Army Reserve
+Close (88) 0 0 0 (88) 0 0 (88) (47) (135) 26,404 -0.5% Center
+Total (88) 0 0 0 (88) 0 0 (88) (47) (135) 26,404 -0.5%
+Fallon, NV Micropolitan Statistical Area
+Naval Air Station Fallon Realign (7) 0 0 0 (7) 0 0 (7) (5) (12) 15,858 -0.1%
+Total (7) 0 0 0 (7) 0 0 (7) (5) (12) 15,858 -0.1%
+Fayetteville, NC Metropolitan Statistical Area
+Fort Bragg Gain (1,352) 0 5,430 247 4,078 247 0 4,325 2,915 7,240 195,370 3.7%
+Pope Air Force Base Realign (5,969) (345) 1,148 1,153 (4,821) 808 (132) (4,145) (2,657) (6,802) 195,370 -3.5%
+Total (7,321) (345) 6,578 1,400 (743) 1,055 (132) 180 258 438 195,370 0.2%
+Fort Leonard Wood, MO Micropolitan Statistical Area
+Fort Leonard Wood Realign (181) (2) 71 25 (110) 23 0 (87) (14) (101) 25,515 -0.4%
+Total (181) (2) 71 25 (110) 23 0 (87) (14) (101) 25,515 -0.4%
+Fort Smith, AR-OK Metropolitan Statistical Area
+Fort Smith Regional Realign (19) (59) 0 0 (19) (59) 0 (78) (56) (134) 152,388 -0.1%
+Total (19) (59) 0 0 (19) (59) 0 (78) (56) (134) 152,388 -0.1%
+This list does not include locations where no changes in military or civilian jobs are affected. B-14 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Fort Walton Beach-Crestview-Destin, FL Metropolitan Statistical Area
+Eglin Air Force Base Gain (28) (42) 2,168 120 2,140 78 0 2,218 1,834 4,052 120,139 3.4%
+Hurlburt Field Realign (48) (6) 0 0 (48) (6) 0 (54) (44) (98) 120,139 -0.1%
+Total (76) (48) 2,168 120 2,092 72 0 2,164 1,790 3,954 120,139 3.3%
+Fort Wayne, IN Metropolitan Statistical Area
+Fort Wayne International Airport
+Gain (5) 0 62 256 57 256 0 313 173 486 256,503 0.2% Air Guard Station
+Total (5) 0 62 256 57 256 0 313 173 486 256,503 0.2%
+Fort Worth-Arlington, TX Metropolitan Division
+Carswell ARS, Naval Air Station Fo
+Gain 0 (12) 8 116 8 104 0 112 116 228 1,004,416 0.0%
+Naval Air Station Joint Reserve Base Ft. Worth
+Gain (54) (5) 330 41 276 36 2 314 197 511 1,004,416 0.1%
+Total (54) (17) 338 157 284 140 2 426 313 739 1,004,416 0.1%
+Fresno, CA Metropolitan Statistical Area
+Fresno Air Terminal Gain 0 0 57 254 57 254 0 311 207 518 427,912 0.1%
+Total 0 0 57 254 57 254 0 311 207 518 427,912 0.1%
+Glens Falls, NY Metropolitan Statistical Area
+Navy Reserve Center Glenn Falls Close (7) 0 0 0 (7) 0 0 (7) (1) (8) 64,173 0.0%
+Total (7) 0 0 0 (7) 0 0 (7) (1) (8) 64,173 0.0%
+Goldsboro, NC Metropolitan Statistical Area
+Seymore Johnson Air Force Base Gain 0 0 345 17 345 17 0 362 301 663 60,040 1.1%
+Total 0 0 345 17 345 17 0 362 301 663 60,040 1.1%
+This list does not include locations where no changes in military or civilian jobs are affected. B-15 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Grand Forks, ND-MN Metropolitan Statistical Area
+Grand Forks Air Force Base Realign (2,290) (355) 0 0 (2,290) (355) 0 (2,645) (2,284) (4,929) 66,242 -7.4%
+Total (2,290) (355) 0 0 (2,290) (355) 0 (2,645) (2,284) (4,929) 66,242 -7.4%
+Grand Island, NE Micropolitan Statistical Area
+Army National Guard Reserve
+Close (31) 0 0 0 (31) 0 0 (31) (16) (47) 45,763 -0.1% Center Grand Island
+Total (31) 0 0 0 (31) 0 0 (31) (16) (47) 45,763 -0.1%
+Great Falls, MT Metropolitan Statistical Area
+Galt Hall U.S. Army Reserve Center, Great Falls
+Close (14) (3) 0 0 (14) (3) 0 (17) (9) (26) 49,197 -0.1%
+Great Falls International Airport Air Guard Station
+Realign (26) (81) 0 0 (26) (81) 0 (107) (66) (173) 49,197 -0.4%
+Total (40) (84) 0 0 (40) (84) 0 (124) (75) (199) 49,197 -0.4%
+Guam County, GU
+Andersen Air Force Base Realign (64) (31) 0 0 (64) (31) 0 (95) (79) (174) 54,980 -0.3%
+Total (64) (31) 0 0 (64) (31) 0 (95) (79) (174) 54,980 -0.3%
+Gulfport-Biloxi, MS Metropolitan Statistical Area
+Human Resources Support Center Southeast
+Realign 0 (138) 0 0 0 (138) (10) (148) (131) (279) 151,445 -0.2%
+Keesler Air Force Base Realign (181) (31) 0 0 (181) (31) (190) (402) (248) (650) 151,445 -0.4%
+Total (181) (169) 0 0 (181) (169) (200) (550) (379) (929) 151,445 -0.6%
+Hagerstown-Martinsburg, MD-WV Metropolitan Statistical Area
+Ewvra Sheppard Air Guard Station Gain 0 0 7 3 7 3 0 10 7 17 116,091 0.0%
+Total 0 0 7 3 7 3 0 10 7 17 116,091 0.0%
+This list does not include locations where no changes in military or civilian jobs are affected. B-16 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Hanford-Corcoran, CA Metropolitan Statistical Area
+Naval Air Station Lemore Gain (39) 0 44 35 5 35 0 40 32 72 53,641 0.1%
+Total (39) 0 44 35 5 35 0 40 32 72 53,641 0.1%
+Hardin County, OH
+Parrott U.S. Army Reserve
+Close (9) (1) 0 0 (9) (1) 0 (10) (5) (15) 13,264 -0.1% Center Kenton
+Total (9) (1) 0 0 (9) (1) 0 (10) (5) (15) 13,264 -0.1%
+Harrisburg-Carlisle, PA Metropolitan Statistical Area
+Defense Distribution Depot Susquehanna
+Realign 0 (15) 0 0 0 (15) 0 (15) (13) (28) 384,888 0.0%
+Naval Support Activity Mechanicsburg
+Realign 0 (11) 0 0 0 (11) 0 (11) (10) (21) 384,888 0.0%
+Total 0 (26) 0 0 0 (26) 0 (26) (23) (49) 384,888 0.0%
+Hartford-West Hartford-East Hartford, CT Metropolitan Statistical Area
+U.S. Army Reserve Center Area Maintenance Support Facility
+Close (13) (5) 0 0 (13) (5) 0 (18) (8) (26) 760,935 0.0%
+Bradley International Airport Air Guard Station
+Realign (23) (88) 26 15 3 (73) 0 (70) (54) (124) 760,935 0.0%
+Total (36) (93) 26 15 (10) (78) 0 (88) (62) (150) 760,935 0.0%
+Hilton Head Island-Beaufort, SC Micropolitan Statistical Area
+Marine Corps Air Station Beaufort Gain 0 0 0 12 0 12 0 12 9 21 93,051 0.0%
+Total 0 0 0 12 0 12 0 12 9 21 93,051 0.0%
+Honolulu, HI Metropolitan Statistical Area
+Naval Station Pearl Harbor Gain (29) (213) 0 324 (29) 111 0 82 89 171 573,389 0.0%
+Hickam Air Force Base Realign (311) (117) 159 7 (152) (110) 0 (262) (224) (486) 573,389 -0.1%
+Total (340) (330) 159 331 (181) 1 0 (180) (135) (315) 573,389 -0.1%
+This list does not include locations where no changes in military or civilian jobs are affected. B-17 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Hot Springs County, WY
+Army National Guard Reserve
+Close (19) 0 0 0 (19) 0 0 (19) (10) (29) 3,204 -0.9% Center Thermopolis
+Total (19) 0 0 0 (19) 0 0 (19) (10) (29) 3,204 -0.9%
+Houston-Baytown-Sugar Land, TX Metropolitan Statistical Area
+Army National Guard Reserve Center Ellington
+Close (14) (45) 0 0 (14) (45) 0 (59) (41) (100) 2,898,160 0.0%
+U.S. Army Reserve Center # 2 Houston
+Close (2) 0 0 0 (2) 0 0 (2) 0 (2) 2,898,160 0.0%
+Ellington Field Air Guard Station Realign 0 (3) 0 0 0 (3) 0 (3) (2) (5) 2,898,160 0.0%
+Total (16) (48) 0 0 (16) (48) 0 (64) (43) (107) 2,898,160 0.0%
+Huntington-Ashland, WV-KY-OH Metropolitan Statistical Area
+Bias U.S. Army Reserve Center, Huntington
+Close (1) 0 0 0 (1) 0 0 (1) 0 (1) 139,908 0.0%
+Total (1) 0 0 0 (1) 0 0 (1) 0 (1) 139,908 0.0%
+Huntsville, AL Metropolitan Statistical Area
+Redstone Arsenal Gain (1,322) (288) 336 1,874 (986) 1,586 1,055 1,655 1,289 2,944 225,625 1.3%
+Total (1,322) (288) 336 1,874 (986) 1,586 1,055 1,655 1,289 2,944 225,625 1.3%
+Indianapolis, IN Metropolitan Statistical Area
+Navy Recruiting District Headquarters Indianapolis
+Close (27) (5) 0 0 (27) (5) (6) (38) (15) (53) 1,037,290 0.0%
+U.S. Army Reserve Center Seston Close (12) 0 0 0 (12) 0 0 (12) (4) (16) 1,037,290 0.0%
+Leased Space - IN Close/Realign (25) (111) 0 0 (25) (111) 0 (136) (89) (225) 1,037,290 0.0%
+Defense Finance and Accounting Service, Indianapolis
+Gain 0 (100) 114 3,478 114 3,378 3 3,495 2,490 5,985 1,037,290 0.6%
+Total (64) (216) 114 3,478 50 3,262 (3) 3,309 2,382 5,691 1,037,290 0.5%
+Jackson, MS Metropolitan Statistical Area
+Jackson International Airport Air Guard Station
+Gain 0 0 0 1 0 1 0 1 0 1 307,475 0.0%
+Total 0 0 0 1 0 1 0 1 0 1 307,475 0.0%
+This list does not include locations where no changes in military or civilian jobs are affected. B-18 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Jacksonville, FL Metropolitan Statistical Area
+Jacksonville International Airport
+Gain 0 (6) 45 22 45 16 0 61 74 135 727,765 0.0% Air Guard Station Naval Air Station Jacksonville Gain (72) (245) 1,974 310 1,902 65 58 2,025 2,370 4,395 727,765 0.6%
+Naval Station Mayport Gain (6) 0 403 13 397 13 0 410 480 890 727,765 0.1%
+Total (78) (251) 2,422 345 2,344 94 58 2,496 2,924 5,420 727,765 0.7%
+Jacksonville, NC Metropolitan Statistical Area
+Marine Corps Base Camp Lejeune Realign (182) (16) 0 15 (182) (1) (9) (192) (109) (301) 91,677 -0.3%
+Total (182) (16) 0 15 (182) (1) (9) (192) (109) (301) 91,677 -0.3%
+Johnston County, OK
+Army National Guard Reserve Center Tishomingo
+Close (30) 0 0 0 (30) 0 0 (30) (16) (46) 4,603 -1.0%
+Total (30) 0 0 0 (30) 0 0 (30) (16) (46) 4,603 -1.0%
+Johnstown, PA Metropolitan Statistical Area
+Marine Corps Reserve Center Johnstown
+Realign (86) 0 0 0 (86) 0 0 (86) (52) (138) 74,442 -0.2%
+Total (86) 0 0 0 (86) 0 0 (86) (52) (138) 74,442 -0.2%
+Kansas City, MO-KS Metropolitan Statistical Area
+Defense Finance and Accounting Service, Kansas City
+Close (37) (576) 0 0 (37) (576) 0 (613) (549) (1,162) 1,225,451 -0.1%
+Marine Corps Support Center Kansas City
+Close (191) (139) 0 0 (191) (139) (3) (333) (250) (583) 1,225,451 0.0%
+Navy Recruiting District Headquarters Kansas
+Close (21) (6) 0 0 (21) (6) (6) (33) (23) (56) 1,225,451 0.0%
+Fort Leavenworth Gain (16) 0 211 8 195 8 0 203 131 334 1,225,451 0.0%
+Total (265) (721) 211 8 (54) (713) (9) (776) (691) (1,467) 1,225,451 -0.1%
+Kapaa, HI Micropolitan Statistical Area
+Army National Guard Reserve Center Honokaa
+Close (118) 0 0 0 (118) 0 0 (118) (100) (218) 37,731 -0.6%
+Total (118) 0 0 0 (118) 0 0 (118) (100) (218) 37,731 -0.6%
+This list does not include locations where no changes in military or civilian jobs are affected. B-19 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Kearney, NE Micropolitan Statistical Area
+Army National Guard Reserve
+Close (8) 0 0 0 (8) 0 0 (8) (4) (12) 35,434 0.0% Center Kearny
+Total (8) 0 0 0 (8) 0 0 (8) (4) (12) 35,434 0.0%
+Killeen-Temple-Fort Hood, TX Metropolitan Statistical Area
+Fort Hood Realign (9,135) (118) 9,062 0 (73) (118) 0 (191) (163) (354) 186,916 -0.2%
+Total (9,135) (118) 9,062 0 (73) (118) 0 (191) (163) (354) 186,916 -0.2%
+King George County, VA
+Naval Surface Warfare Center Dahlgren
+Realign 0 (503) 0 169 0 (334) (17) (351) (424) (775) 14,171 -5.5%
+Total 0 (503) 0 169 0 (334) (17) (351) (424) (775) 14,171 -5.5%
+Kingsport-Bristol-Bristol, TN-VA Metropolitan Statistical Area
+U.S. Army Reserve Area Maintenance Support Facility
+Close (30) (2) 0 0 (30) (2) 0 (32) (7) (39) 161,187 0.0%
+Total (30) (2) 0 0 (30) (2) 0 (32) (7) (39) 161,187 0.0%
+Knoxville, TN Metropolitan Statistical Area
+McGee Tyson APT Air Guard Station
+Gain 0 0 58 190 58 190 0 248 245 493 402,476 0.1%
+Total 0 0 58 190 58 190 0 248 245 493 402,476 0.1%
+La Crosse, WI-MN Metropolitan Statistical Area
+Navy Reserve Center La Crosse
+Close (7) 0 0 0 (7) 0 0 (7) (2) (9) 89,588 0.0%
+Total (7) 0 0 0 (7) 0 0 (7) (2) (9) 89,588 0.0%
+Lafayette, IN Metropolitan Statistical Area
+U.S. Army Reserve Center Lafeyette
+Close (21) 0 0 0 (21) 0 0 (21) (11) (32) 112,699 0.0%
+Total (21) 0 0 0 (21) 0 0 (21) (11) (32) 112,699 0.0%
+This list does not include locations where no changes in military or civilian jobs are affected. B-20 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Lake County-Kenosha County, IL-WI Metropolitan Division
+Fort Sheridan Realign (17) (17) 0 0 (17) (17) 0 (34) (53) (87) 498,103 0.0%
+Naval Station Great Lakes Realign (2,005) (124) 16 101 (1,989) (23) (10) (2,022) (2,577) (4,599) 498,103 -0.9%
+Total (2,022) (141) 16 101 (2,006) (40) (10) (2,056) (2,630) (4,686) 498,103 -0.9%
+Lansing-East Lansing, MI Metropolitan Statistical Area
+Parisan U.S. Army Reserve
+Close (25) 0 0 0 (25) 0 0 (25) (11) (36) 281,040 0.0% Center, Lansing
+Total (25) 0 0 0 (25) 0 0 (25) (11) (36) 281,040 0.0%
+Las Cruces, NM Metropolitan Statistical Area
+White Sands Missile Range Realign (13) (165) 0 0 (13) (165) 0 (178) (190) (368) 79,256 -0.5%
+Total (13) (165) 0 0 (13) (165) 0 (178) (190) (368) 79,256 -0.5%
+Las Vegas-Paradise, NV Metropolitan Statistical Area
+Nellis Air Force Base Gain (265) (5) 1,414 268 1,149 263 0 1,412 959 2,371 890,855 0.3%
+Total (265) (5) 1,414 268 1,149 263 0 1,412 959 2,371 890,855 0.3%
+Lawton, OK Metropolitan Statistical Area
+Fort Sill Gain (892) (176) 4,336 337 3,444 161 (3) 3,602 2,129 5,731 63,978 9.0%
+Total (892) (176) 4,336 337 3,444 161 (3) 3,602 2,129 5,731 63,978 9.0%
+Lewisburg, PA Micropolitan Statistical Area
+U.S. Army Reserve Center Lewisburg
+Close (9) (2) 0 0 (9) (2) 0 (11) (6) (17) 22,716 -0.1%
+Total (9) (2) 0 0 (9) (2) 0 (11) (6) (17) 22,716 -0.1%
+This list does not include locations where no changes in military or civilian jobs are affected. B-21 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Lexington Park, MD Micropolitan Statistical Area
+Defense Finance and Accounting
+Close 0 (53) 0 0 0 (53) 0 (53) (70) (123) 53,347 -0.2% Service, Patuxent River Naval Air Station Patuxent River Gain (10) (142) 7 226 (3) 84 6 87 114 201 53,347 0.4%
+Fort Lewis Realign 0 (164) 0 0 0 (164) 0 (164) (217) (381) 53,347 -0.7%
+Total (10) (359) 7 226 (3) (133) 6 (130) (173) (303) 53,347 -0.6%
+Lexington-Fayette, KY Metropolitan Statistical Area
+Defense Finance and Accounting Service, Lexington
+Close (5) (40) 0 0 (5) (40) 0 (45) (27) (72) 296,523 0.0%
+Navy Reserve Center Lexington Close (9) 0 0 0 (9) 0 0 (9) (2) (11) 296,523 0.0%
+Total (14) (40) 0 0 (14) (40) 0 (54) (29) (83) 296,523 0.0%
+Lincoln, NE Metropolitan Statistical Area
+Navy Reserve Center Lincoln Close (7) 0 0 0 (7) 0 0 (7) (3) (10) 198,773 0.0%
+Total (7) 0 0 0 (7) 0 0 (7) (3) (10) 198,773 0.0%
+Little Rock-North Little Rock, AR Metropolitan Statistical Area
+Little Rock Air Force Base Gain (16) 0 3,595 319 3,579 319 0 3,898 2,958 6,856 394,114 1.7%
+Camp Pike (90th) Realign (86) (91) 0 0 (86) (91) 0 (177) (158) (335) 394,114 -0.1%
+Total (102) (91) 3,595 319 3,493 228 0 3,721 2,800 6,521 394,114 1.7%
+Los Angeles-Long Beach-Glendale, CA Metropolitan Division
+Armed Forces Reserve Center Bell
+Close (72) 0 48 0 (24) 0 0 (24) (11) (35) 5,554,695 0.0%
+Navy-Marine Corps Reserve Center, Encino
+Close (33) 0 0 0 (33) 0 0 (33) (15) (48) 5,554,695 0.0%
+Navy-Marine Corps Reserve Center, Los Angeles
+Close (48) 0 0 0 (48) 0 0 (48) (22) (70) 5,554,695 0.0%
+Leased Space - CA Close/Realign (2) (14) 0 0 (2) (14) 0 (16) (13) (29) 5,554,695 0.0%
+Marine Corps Reserve Center Pasadena CA
+Gain 0 0 25 0 25 0 0 25 11 36 5,554,695 0.0%
+Total (155) (14) 73 0 (82) (14) 0 (96) (50) (146) 5,554,695 0.0%
+This list does not include locations where no changes in military or civilian jobs are affected. B-22 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Louisville, KY-IN Metropolitan Statistical Area
+U.S. Army Reserve Center Louisville
+Close (30) (13) 0 0 (30) (13) 0 (43) (22) (65) 728,101 0.0% 
+Louisville International Airport Air Guard Station
+Gain 0 0 0 6 0 6 0 6 4 10 728,101 0.0%
+Navy Recruiting Command Louisville
+Realign (6) (217) 0 0 (6) (217) 0 (223) (165) (388) 728,101 -0.1%
+Total (36) (230) 0 6 (36) (224) 0 (260) (183) (443) 728,101 -0.1%
+Lubbock, TX Metropolitan Statistical Area
+Navy Reserve Center Lubbock, TX
+Close (7) 0 0 0 (7) 0 0 (7) (2) (9) 156,975 0.0%
+Total (7) 0 0 0 (7) 0 0 (7) (2) (9) 156,975 0.0%
+Lufkin, TX Micropolitan Statistical Area
+Army National Guard Reserve Center Lufkin
+Close (10) 0 0 0 (10) 0 0 (10) (5) (15) 45,773 0.0%
+Total (10) 0 0 0 (10) 0 0 (10) (5) (15) 45,773 0.0%
+Madison, WI Metropolitan Statistical Area
+Navy-Marine Corps Reserve Center Madison
+Close (23) (3) 0 0 (23) (3) 0 (26) (11) (37) 401,730 0.0%
+Olson U.S. Army Reserve Center, Madison
+Close (113) 0 0 0 (113) 0 0 (113) (42) (155) 401,730 0.0%
+U.S. Army Reserve Center O'Connell
+Close (11) (1) 0 0 (11) (1) 0 (12) (4) (16) 401,730 0.0%
+Armed Forces Reserve Center Madison
+Gain 0 0 40 8 40 8 0 48 21 69 401,730 0.0%
+Dane County Airport Gain (4) 0 22 37 18 37 0 55 35 90 401,730 0.0%
+Total (151) (4) 62 45 (89) 41 0 (48) (1) (49) 401,730 0.0%
+Manhattan, KS Micropolitan Statistical Area
+Fort Riley Gain 0 0 2,415 440 2,415 440 0 2,855 1,818 4,673 72,434 6.5%
+Total 0 0 2,415 440 2,415 440 0 2,855 1,818 4,673 72,434 6.5%
+This list does not include locations where no changes in military or civilian jobs are affected. B-23 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Mansfield, OH Metropolitan Statistical Area
+Army National Guard Reserve Center Mansfield
+Close (59) (2) 0 0 (59) (2) 0 (61) (57) (118) 73,323 -0.2%
+Mansfield Lahm Municipal Airport Air Guard Station
+Close (63) (171) 0 0 (63) (171) 0 (234) (294) (528) 73,323 -0.7%
+Total (122) (173) 0 0 (122) (173) 0 (295) (351) (646) 73,323 -0.9%
+Marquette, MI Micropolitan Statistical Area
+Navy Reserve Center Marquette Close (7) 0 0 0 (7) 0 0 (7) (1) (8) 34,562 0.0%
+Total (7) 0 0 0 (7) 0 0 (7) (1) (8) 34,562 0.0%
+Marshall, TX Micropolitan Statistical Area
+Army National Guard Reserve Center Marshall
+Close (15) (1) 0 0 (15) (1) 0 (16) (8) (24) 29,682 -0.1%
+Total (15) (1) 0 0 (15) (1) 0 (16) (8) (24) 29,682 -0.1%
+Martin County, IN
+Naval Support Activity Crane Realign 0 (672) 0 0 0 (672) (11) (683) (308) (991) 8,525 -11.6%
+Total 0 (672) 0 0 0 (672) (11) (683) (308) (991) 8,525 -11.6%
+Maysville, KY Micropolitan Statistical Area
+U.S. Army Reserve Center Maysville
+Close (16) (2) 0 0 (16) (2) 0 (18) (10) (28) 16,643 -0.2%
+Total (16) (2) 0 0 (16) (2) 0 (18) (10) (28) 16,643 -0.2%
+Medford, OR Metropolitan Statistical Area
+Navy Reserve Center Central Point
+Close (7) 0 0 0 (7) 0 0 (7) (2) (9) 106,355 0.0%
+Total (7) 0 0 0 (7) 0 0 (7) (2) (9) 106,355 0.0%
+This list does not include locations where no changes in military or civilian jobs are affected. B-24 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Memphis, TN-MS-AR Metropolitan Statistical Area
+Memphis International Airport Air
+Gain 0 0 2 6 2 6 0 8 5 13 758,153 0.0% Guard Station Naval Support Activity Mid South Gain 0 0 372 601 372 601 88 1,061 668 1,729 758,153 0.2%
+Total 0 0 374 607 374 607 88 1,069 673 1,742 758,153 0.2%
+Meridian, MS Micropolitan Statistical Area
+Key Field Air Guard Station Realign (33) (142) 0 0 (33) (142) 0 (175) (163) (338) 54,548 -0.6%
+Naval Air Station Meridian Realign (15) 0 0 0 (15) 0 (1) (16) (13) (29) 54,548 -0.1%
+Total (48) (142) 0 0 (48) (142) (1) (191) (176) (367) 54,548 -0.7%
+Miami-Miami Beach-Kendall, FL Metropolitan Division
+Homestead Air Reserve Station Gain 0 (12) 0 83 0 71 0 71 70 141 1,293,315 0.0%
+Total 0 (12) 0 83 0 71 0 71 70 141 1,293,315 0.0%
+Milwaukee-Waukesha-West Allis, WI Metropolitan Statistical Area
+Gen Mitchell International Airport ARS
+Close (44) (302) 24 56 (20) (246) 0 (266) (214) (480) 986,431 0.0%
+Total (44) (302) 24 56 (20) (246) 0 (266) (214) (480) 986,431 0.0%
+Minneapolis-St. Paul-Bloomington, MN-WI Metropolitan Statistical Area
+Fort Snelling Realign (130) (124) 0 0 (130) (124) 0 (254) (155) (409) 2,127,894 0.0%
+Total (130) (124) 0 0 (130) (124) 0 (254) (155) (409) 2,127,894 0.0%
+Mobile, AL Metropolitan Statistical Area
+Armed Forces Reserve Center Mobile
+Close (27) 0 22 0 (5) 0 0 (5) (2) (7) 213,966 0.0%
+Fort Ganey Army National Guard Reserve Center Mobile
+Close (13) 0 0 0 (13) 0 0 (13) (5) (18) 213,966 0.0%
+Wright U.S. Army Reserve Center Close (8) (1) 0 0 (8) (1) 0 (9) (4) (13) 213,966 0.0%
+Total (48) (1) 22 0 (26) (1) 0 (27) (11) (38) 213,966 0.0%
+This list does not include locations where no changes in military or civilian jobs are affected. B-25 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Modesto, CA Metropolitan Statistical Area
+Riverbank Army Ammunition Plant Close 0 (4) 0 0 0 (4) (85) (89) (17) (106) 217,388 0.0%
+Total 0 (4) 0 0 0 (4) (85) (89) (17) (106) 217,388 0.0%
+Monroe County, WI
+Fort McCoy Realign (379) (82) 97 133 (282) 51 0 (231) (133) (364) 23,884 -1.5%
+Total (379) (82) 97 133 (282) 51 0 (231) (133) (364) 23,884 -1.5%
+Montgomery, AL Metropolitan Statistical Area
+BG William P. Screws U.S. Army Reserve Center Montgomery
+Close (15) (3) 0 0 (15) (3) 0 (18) (12) (30) 207,595 0.0%
+Navy Recruiting District Headquarters Montgomery
+Close (31) (5) 0 0 (31) (5) (5) (41) (27) (68) 207,595 0.0%
+The Adjutant General Bldg, AL
+Close (85) 0 0 0 (85) 0 0 (85) (56) (141) 207,595 -0.1% Army National Guard Montgomery Dannelly Field Air Guard Station Gain 0 0 18 42 18 42 0 60 45 105 207,595 0.1%
+Maxwell Air Force Base Realign (740) (511) 0 0 (740) (511) 0 (1,251) (894) (2,145) 207,595 -1.0%
+Total (871) (519) 18 42 (853) (477) (5) (1,335) (944) (2,279) 207,595 -1.1%
+Mountain Home, ID Micropolitan Statistical Area
+Mountain Home Air Force Base Realign (1,235) (54) 697 23 (538) (31) 0 (569) (329) (898) 14,441 -6.2%
+Total (1,235) (54) 697 23 (538) (31) 0 (569) (329) (898) 14,441 -6.2%
+Muskogee, OK Micropolitan Statistical Area
+Armed Forces Reserve Center Muskogee
+Close (14) (2) 0 0 (14) (2) 0 (16) (9) (25) 40,416 -0.1%
+Total (14) (2) 0 0 (14) (2) 0 (16) (9) (25) 40,416 -0.1%
+Nashville-Davidson--Murfreesboro, TN Metropolitan Statistical Area
+Leased Space - TN Close/Realign 0 (6) 0 0 0 (6) 0 (6) (4) (10) 919,365 0.0%
+Nashville International Airport Air Guard Station
+Realign (19) (172) 0 0 (19) (172) 0 (191) (137) (328) 919,365 0.0%
+Total (19) (178) 0 0 (19) (178) 0 (197) (141) (338) 919,365 0.0%
+This list does not include locations where no changes in military or civilian jobs are affected. B-26 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Nassau-Suffolk, NY Metropolitan Division
+Armed Forces Reserve Center
+Close (24) (4) 0 0 (24) (4) 0 (28) (8) (36) 1,530,568 0.0% Amityville
+Total (24) (4) 0 0 (24) (4) 0 (28) (8) (36) 1,530,568 0.0%
+New Bern, NC Micropolitan Statistical Area
+Marine Corps Air Station Cherry Point
+Realign (16) (664) 64 8 48 (656) (20) (628) (558) (1,186) 66,366 -1.8%
+Total (16) (664) 64 8 48 (656) (20) (628) (558) (1,186) 66,366 -1.8%
+New Haven-Milford, CT Metropolitan Statistical Area
+SGT Libby U.S. Army Reserve Center, New Haven
+Close (14) (7) 0 0 (14) (7) 0 (21) (12) (33) 472,774 0.0%
+Total (14) (7) 0 0 (14) (7) 0 (21) (12) (33) 472,774 0.0%
+New Orleans-Metairie-Kenner, LA Metropolitan Statistical Area
+Naval Support Activity New Orleans
+Close (1,997) (652) 0 0 (1,997) (652) (62) (2,711) (2,016) (4,727) 763,801 -0.6%
+Leased Space - Slidell Close/Realign (1) (102) 0 0 (1) (102) (48) (151) (144) (295) 763,801 0.0%
+Naval Air Station New Orleans Gain 0 0 1,407 446 1,407 446 3 1,856 1,372 3,228 763,801 0.4%
+Naval Air Station New Orleans Air Reserve Station
+Realign (4) (308) 45 76 41 (232) 0 (191) (207) (398) 763,801 -0.1%
+Total (2,002) (1,062) 1,452 522 (550) (540) (107) (1,197) (995) (2,192) 763,801 -0.3%
+New York-Wayne-White Plains, NY-NJ Metropolitan Division
+Fort Totten / Pyle Realign (75) (74) 0 0 (75) (74) 0 (149) (72) (221) 6,226,027 0.0%
+Total (75) (74) 0 0 (75) (74) 0 (149) (72) (221) 6,226,027 0.0%
+Newark-Union, NJ-PA Metropolitan Division
+Picatinny Arsenal Gain 0 0 5 688 5 688 0 693 566 1,259 1,246,371 0.1%
+Total 0 0 5 688 5 688 0 693 566 1,259 1,246,371 0.1%
+This list does not include locations where no changes in military or civilian jobs are affected. B-27 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Norwich-New London, CT Metropolitan Statistical Area
+Submarine Base New London Close (7,096) (952) 0 0 (7,096) (952) (412) (8,460) (7,353) (15,813) 168,620 -9.4%
+Total (7,096) (952) 0 0 (7,096) (952) (412) (8,460) (7,353) (15,813) 168,620 -9.4%
+Oak Harbor, WA Micropolitan Statistical Area
+Naval Air Station Whidbey Island Gain (34) 0 0 173 (34) 173 0 139 162 301 35,843 0.8%
+Total (34) 0 0 173 (34) 173 0 139 162 301 35,843 0.8%
+Oakland-Fremont-Hayward, CA Metropolitan Division
+Defense Finance and Accounting
+Close 0 (50) 0 0 0 (50) 0 (50) (40) (90) 1,383,332 0.0% Service, Oakland Camp Parks (91st) Realign (25) (18) 0 0 (25) (18) 0 (43) (26) (69) 1,383,332 0.0%
+Total (25) (68) 0 0 (25) (68) 0 (93) (66) (159) 1,383,332 0.0%
+Ogden-Clearfield, UT Metropolitan Statistical Area
+Hill Air Force Base Realign (13) (447) 291 24 278 (423) 0 (145) (164) (309) 239,699 -0.1%
+Total (13) (447) 291 24 278 (423) 0 (145) (164) (309) 239,699 -0.1%
+Oklahoma City, OK Metropolitan Statistical Area
+Krowse U.S. Army Reserve Center Oklahoma City
+Close (78) (6) 0 0 (78) (6) 0 (84) (78) (162) 703,918 0.0%
+Oklahoma City (95th) Close (31) (22) 0 0 (31) (22) 0 (53) (55) (108) 703,918 0.0%
+Tinker Air Force Base Gain (9) (197) 9 552 0 355 0 355 450 805 703,918 0.1%
+Will Rogers World Airport Air Guard Station
+Realign (19) (145) 103 46 84 (99) 0 (15) (49) (64) 703,918 0.0%
+Total (137) (370) 112 598 (25) 228 0 203 268 471 703,918 0.1%
+Omaha-Council Bluffs, NE-IA Metropolitan Statistical Area
+Naval Recruiting District Headquarters Omaha
+Close (19) (7) 0 0 (19) (7) (6) (32) (28) (60) 538,121 0.0%
+Offutt Air Force Base Realign 0 (227) 54 69 54 (158) 0 (104) (130) (234) 538,121 0.0%
+Total (19) (234) 54 69 35 (165) (6) (136) (158) (294) 538,121 -0.1%
+This list does not include locations where no changes in military or civilian jobs are affected. B-28 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Orlando, FL Metropolitan Statistical Area
+Defense Finance and Accounting
+Close (9) (200) 0 0 (9) (200) 0 (209) (204) (413) 1,082,297 0.0% Service, Orlando
+Total (9) (200) 0 0 (9) (200) 0 (209) (204) (413) 1,082,297 0.0%
+Oxnard-Thousand Oaks-Ventura, CA Metropolitan Statistical Area
+Channel Islands Air Guard Station Gain 0 0 4 15 4 15 0 19 23 42 420,712 0.0%
+Naval Base Ventura City Realign (244) (2,149) 5 854 (239) (1,295) 0 (1,534) (1,905) (3,439) 420,712 -0.8%
+Total (244) (2,149) 9 869 (235) (1,280) 0 (1,515) (1,882) (3,397) 420,712 -0.8%
+Paducah, KY-IL Micropolitan Statistical Area
+Army National Guard Reserve Center Paducah
+Close (31) 0 0 0 (31) 0 0 (31) (16) (47) 61,551 -0.1%
+Total (31) 0 0 0 (31) 0 0 (31) (16) (47) 61,551 -0.1%
+Palm Bay-Melbourne-Titusville, FL Metropolitan Statistical Area
+Patrick Air Force Base Realign (136) (59) 0 0 (136) (59) 0 (195) (165) (360) 247,994 -0.1%
+Total (136) (59) 0 0 (136) (59) 0 (195) (165) (360) 247,994 -0.1%
+Panama City-Lynn Haven, FL Metropolitan Statistical Area
+Naval Support Activity Panama City
+Realign (12) (12) 0 0 (12) (12) 0 (24) (24) (48) 86,688 -0.1%
+Tyndall Air Force Base Realign (48) (19) 11 0 (37) (19) 0 (56) (57) (113) 86,688 -0.1%
+Total (60) (31) 11 0 (49) (31) 0 (80) (81) (161) 86,688 -0.2%
+Parsons, KS Micropolitan Statistical Area
+Kansas Army Ammunition Plant Close 0 (8) 0 0 0 (8) (159) (167) (109) (276) 15,144 -1.8%
+Total 0 (8) 0 0 0 (8) (159) (167) (109) (276) 15,144 -1.8%
+This list does not include locations where no changes in military or civilian jobs are affected. B-29 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Pascagoula, MS Metropolitan Statistical Area
+Naval Station Pascagoula Close (844) (112) 0 0 (844) (112) (7) (963) (798) (1,761) 68,520 -2.6%
+Total (844) (112) 0 0 (844) (112) (7) (963) (798) (1,761) 68,520 -2.6%
+Pendleton-Hermiston, OR Micropolitan Statistical Area
+Umatilla Army Depot Close (127) (385) 0 0 (127) (385) 0 (512) (372) (884) 44,887 -2.0%
+Total (127) (385) 0 0 (127) (385) 0 (512) (372) (884) 44,887 -2.0%
+Pensacola-Ferry Pass-Brent, FL Metropolitan Statistical Area
+Naval Air Station Pensacola Realign (857) (1,304) 555 124 (302) (1,180) (97) (1,579) (2,521) (4,100) 210,512 -1.9%
+Total (857) (1,304) 555 124 (302) (1,180) (97) (1,579) (2,521) (4,100) 210,512 -1.9%
+Peoria, IL Metropolitan Statistical Area
+Greater Peoria Regio Gain 0 0 13 21 13 21 0 34 23 57 217,455 0.0%
+Total 0 0 13 21 13 21 0 34 23 57 217,455 0.0%
+Peru, IN Micropolitan Statistical Area
+Navy Marine Corps Reserve
+Close (7) 0 0 0 (7) 0 0 (7) (1) (8) 14,974 -0.1% Center Grissom Air Reserve
+Total (7) 0 0 0 (7) 0 0 (7) (1) (8) 14,974 -0.1%
+This list does not include locations where no changes in military or civilian jobs are affected. B-30 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Philadelphia, PA Metropolitan Division
+Bristol Close (9) (2) 0 0 (9) (2) 0 (11) (5) (16) 2,273,372 0.0%
+Engineering Field Activity
+Close (4) (188) 0 0 (4) (188) 0 (192) (155) (347) 2,273,372 0.0% Northeast Naval Air Station Willow Grove Close (865) (362) 0 0 (865) (362) (5) (1,232) (698) (1,930) 2,273,372 -0.1%
+Navy Crane Center Lester Close (1) (54) 0 0 (1) (54) 0 (55) (44) (99) 2,273,372 0.0%
+North Penn U.S. Army Reserve Center, Norristown
+Close (22) (1) 0 0 (22) (1) 0 (23) (10) (33) 2,273,372 0.0%
+W. Reese U.S. Army Reserve Center/OMS, Chester
+Close (9) (1) 0 0 (9) (1) 0 (10) (4) (14) 2,273,372 0.0%
+Naval Support Activity Philadelphia
+Gain 0 (10) 0 301 0 291 0 291 237 528 2,273,372 0.0%
+Human Resources Support Center Northeast
+Realign 0 (174) 0 0 0 (174) (9) (183) (148) (331) 2,273,372 0.0%
+Navy Philadelphia Business Center
+Realign 0 (63) 0 0 0 (63) 0 (63) (51) (114) 2,273,372 0.0%
+Total (910) (855) 0 301 (910) (554) (14) (1,478) (878) (2,356) 2,273,372 -0.1%
+Phoenix-Mesa-Scottsdale, AZ Metropolitan Statistical Area
+Air Force Research Lab, Mesa City
+Close (42) (46) 0 0 (42) (46) 0 (88) (82) (170) 1,971,119 0.0%
+Leased Space - AZ Close/Realign 0 (1) 0 0 0 (1) 0 (1) (1) (2) 1,971,119 0.0%
+Phoenix Sky Harbor I Gain 0 0 10 29 10 29 0 39 39 78 1,971,119 0.0%
+Luke Air Force Base Realign (101) (177) 0 0 (101) (177) 0 (278) (273) (551) 1,971,119 0.0%
+Total (143) (224) 10 29 (133) (195) 0 (328) (317) (645) 1,971,119 0.0%
+Picayune, MS Micropolitan Statistical Area
+Mississippi Army Ammunition Plant
+Close 0 (4) 0 0 0 (4) (50) (54) (35) (89) 16,286 -0.5%
+Total 0 (4) 0 0 0 (4) (50) (54) (35) (89) 16,286 -0.5%
+Pine Bluff, AR Metropolitan Statistical Area
+Stone U.S. Army Reserve Center, Pine Bluff
+Close (30) (4) 0 0 (30) (4) 0 (34) (13) (47) 49,184 -0.1%
+Total (30) (4) 0 0 (30) (4) 0 (34) (13) (47) 49,184 -0.1%
+This list does not include locations where no changes in military or civilian jobs are affected. B-31 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Pittsburgh, PA Metropolitan Statistical Area
+Kelly Support Center Close (174) (136) 0 0 (174) (136) 0 (310) (183) (493) 1,403,312 0.0%
+Pittsburgh International Airport Air Reserve Station
+Close (44) (278) 0 0 (44) (278) 0 (322) (258) (580) 1,403,312 0.0%
+Navy-Marine Corps Reserve Center Pittsburgh
+Gain 0 0 7 0 7 0 0 7 2 9 1,403,312 0.0%
+Pitt U.S. Army Reserve Center, Corapolis
+Realign (119) (101) 0 0 (119) (101) 0 (220) (132) (352) 1,403,312 0.0%
+Total (337) (515) 7 0 (330) (515) 0 (845) (571) (1,416) 1,403,312 -0.1%
+Pocatello, ID Metropolitan Statistical Area
+Navy Reserve Center Pocatello Close (7) 0 0 0 (7) 0 0 (7) (2) (9) 47,266 0.0%
+Total (7) 0 0 0 (7) 0 0 (7) (2) (9) 47,266 0.0%
+Portland-South Portland-Biddeford ME Metropolitan Statistical Area
+Naval Shipyard Portsmouth Close (201) (4,032) 0 0 (201) (4,032) (277) (4,510) (4,656) (9,166) 331,655 -2.8%
+Naval Air Station Brunswick Realign (2,317) (61) 0 0 (2,317) (61) (42) (2,420) (1,846) (4,266) 331,655 -1.3%
+Total (2,518) (4,093) 0 0 (2,518) (4,093) (319) (6,930) (6,502) (13,432) 331,655 -4.0%
+Portland-Vancouver-Beaverton, OR-WA Metropolitan Statistical Area
+Vancover Barracks Close (29) (16) 0 0 (29) (16) 0 (45) (27) (72) 1,232,839 0.0%
+Portland International Airport Air Guard Station
+Realign (112) (452) 0 0 (112) (452) 0 (564) (453) (1,017) 1,232,839 -0.1%
+Total (141) (468) 0 0 (141) (468) 0 (609) (480) (1,089) 1,232,839 -0.1%
+Poughkeepsie-Newburgh-Middletown, NY Metropolitan Statistical Area
+Carpenter U.S. Army Reserve Center,Poughkeepie
+Close (8) (1) 0 0 (8) (1) 0 (9) (5) (14) 312,628 0.0%
+United States Military Academy Gain 0 0 226 38 226 38 0 264 158 422 312,628 0.1%
+Total (8) (1) 226 38 218 37 0 255 153 408 312,628 0.1%
+This list does not include locations where no changes in military or civilian jobs are affected. B-32 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Providence-New Bedford-Fall River, RI-MA Metropolitan Statistical Area
+Harwood U.S. Army Reserve
+Close (20) (4) 0 0 (20) (4) 0 (24) (30) (54) 864,734 0.0% Center, Providence USARC Bristol Close (24) 0 0 0 (24) 0 0 (24) (28) (52) 864,734 0.0%
+Naval Station Newport Gain (122) (225) 647 309 525 84 (76) 533 654 1,187 864,734 0.1%
+Quonset State Airport Air Guard Station
+Gain 0 0 17 29 17 29 0 46 67 113 864,734 0.0%
+Total (166) (229) 664 338 498 109 (76) 531 663 1,194 864,734 0.1%
+Rapid City, SD Metropolitan Statistical Area
+Ellsworth Air Force Base Close (3,315) (438) 0 0 (3,315) (438) (99) (3,852) (2,915) (6,767) 79,970 -8.5%
+Total (3,315) (438) 0 0 (3,315) (438) (99) (3,852) (2,915) (6,767) 79,970 -8.5%
+Reading, PA Metropolitan Statistical Area
+Navy-Marine Corps Reserve Center Reading
+Close (18) 0 0 0 (18) 0 0 (18) (6) (24) 213,550 0.0%
+Total (18) 0 0 0 (18) 0 0 (18) (6) (24) 213,550 0.0%
+Reno-Sparks, NV Metropolitan Statistical Area
+Hawthorne Army Depot Close (74) (45) 0 0 (74) (45) (80) (199) (126) (325) 243,270 -0.1%
+Reno-Tahoe International Airport Air Guard Station
+Realign (23) (124) 0 0 (23) (124) 0 (147) (115) (262) 243,270 -0.1%
+Total (97) (169) 0 0 (97) (169) (80) (346) (241) (587) 243,270 -0.2%
+Richmond, VA Metropolitan Statistical Area
+Leased Space - VA Close/Realign 0 (215) 0 0 0 (215) 0 (215) (166) (381) 715,302 -0.1%
+Defense Supply Center Richmond Gain 0 (77) 0 83 0 6 0 6 4 10 715,302 0.0%
+Fort Lee Gain (392) (2) 6,531 1,151 6,139 1,149 56 7,344 4,425 11,769 715,302 1.6%
+Richmond International Airport Air Guard Station
+Realign (25) (101) 0 0 (25) (101) 0 (126) (92) (218) 715,302 0.0%
+Total (417) (395) 6,531 1,234 6,114 839 56 7,009 4,171 11,180 715,302 1.6%
+This list does not include locations where no changes in military or civilian jobs are affected. B-33 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Riverside-San Bernardino-Ontario, CA Metropolitan Statistical Area
+Defense Finance and Accounting
+Close 0 (120) 0 0 0 (120) 0 (120) (121) (241) 1,479,524 0.0% Service, San Bernardino Naval Support Activity Corona Close (6) (886) 0 0 (6) (886) 0 (892) (904) (1,796) 1,479,524 -0.1%
+March Air Reserve Base Realign (71) (44) 0 4 (71) (40) 0 (111) (90) (201) 1,479,524 0.0%
+Marine Corps Logistics Base Barstow
+Realign (140) (330) 0 0 (140) (330) 51 (419) (396) (815) 1,479,524 -0.1%
+Total (217) (1,380) 0 4 (217) (1,376) 51 (1,542) (1,511) (3,053) 1,479,524 -0.2%
+Rockingham County-Strafford County, NH Metropolitan Division
+Doble U.S. Army Reserve Center Portsmouth
+Close (39) (5) 0 0 (39) (5) 0 (44) (29) (73) 238,671 0.0%
+Armed Forces Reserve Center Pease Air Force Base
+Gain 0 0 20 28 20 28 0 48 40 88 238,671 0.0%
+Total (39) (5) 20 28 (19) 23 0 4 11 15 238,671 0.0%
+Rome, GA Metropolitan Statistical Area
+Inspector/Instructor Rome GA Close (9) 0 0 0 (9) 0 0 (9) (3) (12) 50,944 0.0%
+Total (9) 0 0 0 (9) 0 0 (9) (3) (12) 50,944 0.0%
+Salinas, CA Metropolitan Statistical Area
+Defense Finance and Accounting Service, Seaside
+Close (10) (51) 0 0 (10) (51) 0 (61) (61) (122) 235,299 -0.1%
+Fort Hunter Liggett Gain 0 0 25 18 25 18 0 43 41 84 235,299 0.0%
+Total (10) (51) 25 18 15 (33) 0 (18) (20) (38) 235,299 0.0%
+Salt Lake City, UT Metropolitan Statistical Area
+Deseret Chemical Depot Close (186) (62) 0 0 (186) (62) 0 (248) (143) (391) 701,532 -0.1%
+Fort Douglas Realign (15) (38) 0 0 (15) (38) 0 (53) (41) (94) 701,532 0.0%
+Total (201) (100) 0 0 (201) (100) 0 (301) (184) (485) 701,532 -0.1%
+This list does not include locations where no changes in military or civilian jobs are affected. B-34 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+San Antonio, TX Metropolitan Statistical Area
+Army National Guard Reserve
+Close (106) 0 0 0 (106) 0 0 (106) (89) (195) 1,009,217 0.0% Center New Braunfels Brooks City Base Close (1,297) (1,268) 0 0 (1,297) (1,268) (358) (2,923) (2,801) (5,724) 1,009,217 -0.6%
+Defense Finance and Accounting Service, San Antonio
+Close (32) (303) 0 0 (32) (303) 0 (335) (367) (702) 1,009,217 -0.1%
+Leased Space - TX Close/Realign (78) (147) 0 0 (78) (147) 0 (225) (230) (455) 1,009,217 0.0%
+Fort Sam Houston Gain (117) 0 7,765 1,624 7,648 1,624 92 9,364 8,324 17,688 1,009,217 1.8%
+Randolph Air Force Base Gain (576) (174) 164 705 (412) 531 63 182 300 482 1,009,217 0.0%
+Lackland Air Force Base Realign (2,489) (1,223) 235 453 (2,254) (770) (116) (3,140) (2,755) (5,895) 1,009,217 -0.6%
+Total (4,695) (3,115) 8,164 2,782 3,469 (333) (319) 2,817 2,382 5,199 1,009,217 0.5%
+San Diego-Carlsbad-San Marcos, CA Metropolitan Statistical Area
+Defense Finance and Accounting Service, San Diego
+Close (3) (237) 0 0 (3) (237) 0 (240) (256) (496) 1,806,321 0.0%
+Marine Corps Base Miramar Gain (46) (3) 87 34 41 31 0 72 70 142 1,806,321 0.0%
+Naval Base Point Loma Gain (12) (341) 312 350 300 9 0 309 279 588 1,806,321 0.0%
+Naval Station San Diego Gain (1) (2) 1,085 86 1,084 84 2 1,170 1,066 2,236 1,806,321 0.1%
+Human Resources Support Center Southwest
+Realign 0 (164) 0 0 0 (164) 0 (164) (175) (339) 1,806,321 0.0%
+Marine Corps Base Camp Pendleton
+Realign (145) (6) 0 7 (145) 1 0 (144) (129) (273) 1,806,321 0.0%
+Naval Base Coronado Realign (71) (587) 0 198 (71) (389) 0 (460) (481) (941) 1,806,321 -0.1%
+Naval Medical Center San Diego Realign (1,596) (33) 0 0 (1,596) (33) (1) (1,630) (1,470) (3,100) 1,806,321 -0.2%
+Naval Weapons Station Fallbrook Realign 0 (118) 0 0 0 (118) 0 (118) (126) (244) 1,806,321 0.0%
+Total (1,874) (1,491) 1,484 675 (390) (816) 1 (1,205) (1,222) (2,427) 1,806,321 -0.1%
+This list does not include locations where no changes in military or civilian jobs are affected. B-35 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+San Jose-Sunnyvale-Santa Clara, CA Metropolitan Statistical Area
+Onizuka Air Force Station Close (107) (171) 0 0 (107) (171) 0 (278) (114) (392) 1,187,969 0.0%
+AFRC Moffett Field Gain 0 0 87 166 87 166 0 253 106 359 1,187,969 0.0%
+Total (107) (171) 87 166 (20) (5) 0 (25) (8) (33) 1,187,969 0.0%
+San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area
+Army National Guard Reserve
+Close (26) 0 0 0 (26) 0 0 (26) (18) (44) 850,261 0.0% Center Humacao
+Lavergne U.S. Army Reserve Center Bayamon
+Close (25) (1) 0 0 (25) (1) 0 (26) (18) (44) 850,261 0.0%
+Camp Euripides Rubio, Puerto Nuevo
+Realign (43) 0 0 0 (43) 0 0 (43) (29) (72) 850,261 0.0%
+Fort Buchanan Realign (9) (47) 0 0 (9) (47) 0 (56) (54) (110) 850,261 0.0%
+Total (103) (48) 0 0 (103) (48) 0 (151) (119) (270) 850,261 0.0%
+Santa Ana-Anaheim-Irvine, CA Metropolitan Division
+Naval Weapons Station Seal Beach Det Concord
+Close 0 (71) 0 0 0 (71) 0 (71) (57) (128) 1,901,499 0.0%
+Los Alamitos (63rd) Realign (92) (78) 0 0 (92) (78) 0 (170) (99) (269) 1,901,499 0.0%
+Total (92) (149) 0 0 (92) (149) 0 (241) (156) (397) 1,901,499 0.0%
+Santa Barbara-Santa Maria-Goleta, CA Metropolitan Statistical Area
+Vandenburg Air Force Base Gain 0 0 44 101 44 101 0 145 114 259 254,600 0.1%
+Total 0 0 44 101 44 101 0 145 114 259 254,600 0.1%
+Savannah, GA Metropolitan Statistical Area
+Savannah International Airport Air Guard Station
+Gain 0 0 17 21 17 21 0 38 38 76 174,403 0.0%
+Total 0 0 17 21 17 21 0 38 38 76 174,403 0.0%
+This list does not include locations where no changes in military or civilian jobs are affected. B-36 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Scranton--Wilkes-Barre, PA Metropolitan Statistical Area
+Serrenti U.S. Army Reserve
+Close (47) (8) 0 0 (47) (8) 0 (55) (21) (76) 306,854 0.0% Center, Scranton Tobyhanna Army Depot Gain (1) (82) 3 355 2 273 0 275 192 467 306,854 0.2%
+Total (48) (90) 3 355 (45) 265 0 220 171 391 306,854 0.1%
+Seattle-Bellevue-Everett, WA Metropolitan Division
+Army National Guard Reserve Center Everett
+Close (57) 0 0 0 (57) 0 0 (57) (32) (89) 1,690,448 0.0%
+U.S. Army Reserve Center Fort Lawton
+Close (53) (54) 0 0 (53) (54) 0 (107) (76) (183) 1,690,448 0.0%
+Total (110) (54) 0 0 (110) (54) 0 (164) (108) (272) 1,690,448 0.0%
+Shreveport-Bossier City, LA Metropolitan Statistical Area
+Barksdale Air Force Base Gain 0 0 5 60 5 60 0 65 70 135 211,384 0.1%
+Total 0 0 5 60 5 60 0 65 70 135 211,384 0.1%
+Sierra Vista-Douglas, AZ Micropolitan Statistical Area
+Fort Huachuca Realign 0 (212) 0 44 0 (168) 1 (167) (125) (292) 51,749 -0.6%
+Total 0 (212) 0 44 0 (168) 1 (167) (125) (292) 51,749 -0.6%
+Sioux City, IA-NE-SD Metropolitan Statistical Area
+Navy Reserve Center Sioux City Close (7) 0 0 0 (7) 0 0 (7) (2) (9) 93,206 0.0%
+Sioux Gateway Airport Air Guard Gain 0 0 33 170 33 170 0 203 155 358 93,206 0.4%
+Total (7) 0 33 170 26 170 0 196 153 349 93,206 0.4%
+Sioux Falls, SD Metropolitan Statistical Area
+Joe Foss Field Air Guard Station Gain (4) 0 32 27 28 27 0 55 35 90 149,410 0.1%
+Total (4) 0 32 27 28 27 0 55 35 90 149,410 0.1%
+This list does not include locations where no changes in military or civilian jobs are affected. B-37 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Spokane, WA Metropolitan Statistical Area
+1LT Richard H. Walker U.S. Army
+Close (38) 0 0 0 (38) 0 0 (38) (32) (70) 249,887 0.0% Reserve Center Fairchild Air Force Base Realign (26) (172) 0 0 (26) (172) 0 (198) (215) (413) 249,887 -0.2%
+Total (64) (172) 0 0 (64) (172) 0 (236) (247) (483) 249,887 -0.2%
+Springfield, IL Metropolitan Statistical Area
+Capital Airport Air Guard Station Realign (52) (133) 22 0 (30) (133) 0 (163) (105) (268) 139,247 -0.2%
+Total (52) (133) 22 0 (30) (133) 0 (163) (105) (268) 139,247 -0.2%
+Springfield, MA Metropolitan Statistical Area
+Westover U.S. Army Reserve Center, Cicopee
+Close (13) 0 0 0 (13) 0 0 (13) (5) (18) 374,117 0.0%
+Barnes Municipal Airport Air Guard Station
+Gain 0 (5) 23 89 23 84 0 107 86 193 374,117 0.1%
+Westover Air Force Base Gain 0 0 69 11 69 11 0 80 41 121 374,117 0.0%
+Total (13) (5) 92 100 79 95 0 174 122 296 374,117 0.1%
+Springfield, OH Metropolitan Statistical Area
+Springfield-Beckley Municipal Airport Air Guard Station
+Realign (66) (225) 0 0 (66) (225) 0 (291) (149) (440) 67,753 -0.6%
+Total (66) (225) 0 0 (66) (225) 0 (291) (149) (440) 67,753 -0.6%
+St. Joseph, MO-KS Metropolitan Statistical Area
+Rosecrans Memorial Airport Air Guard Station
+Gain 0 0 8 27 8 27 0 35 23 58 68,849 0.1%
+Total 0 0 8 27 8 27 0 35 23 58 68,849 0.1%
+This list does not include locations where no changes in military or civilian jobs are affected. B-38 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+St. Louis, MO-IL Metropolitan Statistical Area
+Army National Guard Reserve
+Close (67) 0 0 0 (67) 0 0 (67) (54) (121) 1,668,793 0.0% Center Jefferson Barracks
+Defense Finance and Accounting Service, St. Louis
+Close (2) (291) 0 0 (2) (291) 0 (293) (318) (611) 1,668,793 0.0%
+Leased Space - MO Close/Realign (709) (1,234) 0 0 (709) (1,234) (150) (2,093) (2,078) (4,171) 1,668,793 -0.2%
+Scott Air Force Base Gain (252) 0 131 832 (121) 832 86 797 900 1,697 1,668,793 0.1%
+Lambert International Airport- St Louis
+Realign (34) (215) 0 0 (34) (215) 0 (249) (261) (510) 1,668,793 0.0%
+Total (1,064) (1,740) 131 832 (933) (908) (64) (1,905) (1,811) (3,716) 1,668,793 -0.2%
+St. Marys, GA Micropolitan Statistical Area
+Submarine Base Kings Bay Gain 0 0 3,245 102 3,245 102 20 3,367 1,667 5,034 23,025 21.9%
+Total 0 0 3,245 102 3,245 102 20 3,367 1,667 5,034 23,025 21.9%
+Stewart County, GA
+Bethesda/Chevy Chase Realign (5) (2) 0 0 (5) (2) 0 (7) (4) (11) 1,628 -0.7%
+Total (5) (2) 0 0 (5) (2) 0 (7) (4) (11) 1,628 -0.7%
+Stockton, CA Metropolitan Statistical Area
+Defense Distribution Depot San Joaquin
+Realign 0 (31) 0 0 0 (31) 0 (31) (20) (51) 269,709 0.0%
+Total 0 (31) 0 0 0 (31) 0 (31) (20) (51) 269,709 0.0%
+Sumter, SC Metropolitan Statistical Area
+Shaw Air Force Base Gain (74) (1) 816 76 742 75 0 817 604 1,421 54,168 2.6%
+Total (74) (1) 816 76 742 75 0 817 604 1,421 54,168 2.6%
+This list does not include locations where no changes in military or civilian jobs are affected. B-39 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Tacoma, WA Metropolitan Division
+Navy-Marine Corps Reserve
+Close (20) 0 0 0 (20) 0 0 (20) (15) (35) 339,431 0.0% Center Tacoma Fort Lewis Gain (2) (1) 187 46 185 45 0 230 187 417 339,431 0.1%
+McChord Air Force Base Realign (460) (143) 36 7 (424) (136) (7) (567) (469) (1,036) 339,431 -0.3%
+Total (482) (144) 223 53 (259) (91) (7) (357) (297) (654) 339,431 -0.2%
+Tampa-St. Petersburg-Clearwater, FL Metropolitan Statistical Area
+Navy Reserve Center ST Petersburg
+Close (12) 0 0 0 (12) 0 0 (12) (10) (22) 1,485,074 0.0%
+MacDill Air Force Base Gain (292) 0 162 231 (130) 231 0 101 152 253 1,485,074 0.0%
+Total (304) 0 162 231 (142) 231 0 89 142 231 1,485,074 0.0%
+Terre Haute, IN Metropolitan Statistical Area
+Newport Chemical Depot Close (210) (81) 0 0 (210) (81) (280) (571) (267) (838) 89,765 -0.9%
+Hulman Regional Airport Air Guard Station
+Realign (12) (124) 0 0 (12) (124) 0 (136) (95) (231) 89,765 -0.3%
+Total (222) (205) 0 0 (222) (205) (280) (707) (362) (1,069) 89,765 -1.2%
+Texarkana, TX-Texarkana, AR Metropolitan Statistical Area
+Lone Star Army Ammunition Plant Close (2) (18) 0 0 (2) (18) (129) (149) (80) (229) 67,895 -0.3%
+Red River Army Depot Close (9) (2,491) 0 0 (9) (2,491) 0 (2,500) (1,676) (4,176) 67,895 -6.2%
+Total (11) (2,509) 0 0 (11) (2,509) (129) (2,649) (1,756) (4,405) 67,895 -6.5%
+Toledo, OH Metropolitan Statistical Area
+Toledo Express Airport Air Guard Station
+Gain 0 0 14 112 14 112 0 126 90 216 403,161 0.1%
+Total 0 0 14 112 14 112 0 126 90 216 403,161 0.1%
+Topeka, KS Metropolitan Statistical Area
+Forbes Field Air Guard Station Gain 0 0 53 194 53 194 0 247 169 416 144,675 0.3%
+Total 0 0 53 194 53 194 0 247 169 416 144,675 0.3%
+This list does not include locations where no changes in military or civilian jobs are affected. B-40 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Trenton-Ewing, NJ Metropolitan Statistical Area
+Inspector/Instructor Center West
+Close (11) (1) 0 0 (11) (1) 0 (12) (4) (16) 249,721 0.0% Trenton
+Total (11) (1) 0 0 (11) (1) 0 (12) (4) (16) 249,721 0.0%
+Troy, AL Micropolitan Statistical Area
+Anderson U.S. Army Reserve Center Troy
+Close (15) 0 0 0 (15) 0 0 (15) (8) (23) 15,306 -0.2%
+Total (15) 0 0 0 (15) 0 0 (15) (8) (23) 15,306 -0.2%
+Tucson, AZ Metropolitan Statistical Area
+Allen Hall Armed Forces Reserve Center, Tucson
+Close (60) 0 0 0 (60) 0 0 (60) (52) (112) 448,946 0.0%
+Total (60) 0 0 0 (60) 0 0 (60) (52) (112) 448,946 0.0%
+Tulsa, OK Metropolitan Statistical Area
+Armed Forces Reserve Center Broken Arrow
+Close (26) 0 32 0 6 0 0 6 2 8 533,659 0.0%
+Navy-Marine Corps Reserve Center Tulsa
+Close (32) 0 0 0 (32) 0 0 (32) (11) (43) 533,659 0.0%
+Tulsa International Airport Air Guard Station
+Gain 0 0 22 81 22 81 0 103 83 186 533,659 0.0%
+Total (58) 0 54 81 (4) 81 0 77 74 151 533,659 0.0%
+Tuscaloosa, AL Metropolitan Statistical Area
+Navy Reserve Center Tuscaloosa AL
+Close (7) 0 0 0 (7) 0 0 (7) (2) (9) 104,345 0.0%
+Total (7) 0 0 0 (7) 0 0 (7) (2) (9) 104,345 0.0%
+Tuskegee, AL Micropolitan Statistical Area
+Abbott U.S. Army Reserve Center Tuskegee
+Close (2) (1) 0 0 (2) (1) 0 (3) (1) (4) 8,256 0.0%
+Total (2) (1) 0 0 (2) (1) 0 (3) (1) (4) 8,256 0.0%
+This list does not include locations where no changes in military or civilian jobs are affected. B-41 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Utica-Rome, NY Metropolitan Statistical Area
+Defense Finance and Accounting
+Close 0 (290) 0 0 0 (290) 0 (290) (274) (564) 158,421 -0.4% Service, Rome Rome Laboratory Realign (13) (124) 0 0 (13) (124) 0 (137) (122) (259) 158,421 -0.2%
+Total (13) (414) 0 0 (13) (414) 0 (427) (396) (823) 158,421 -0.5%
+Valdosta, GA Metropolitan Statistical Area
+Moody Air Force Base Gain (604) (145) 1,274 50 670 (95) 0 575 416 991 65,992 1.5%
+Total (604) (145) 1,274 50 670 (95) 0 575 416 991 65,992 1.5%
+Vicksburg, MS Micropolitan Statistical Area
+U.S. Army Reserve Center Vicksburg
+Close (26) (2) 0 0 (26) (2) 0 (28) (15) (43) 29,916 -0.1%
+Total (26) (2) 0 0 (26) (2) 0 (28) (15) (43) 29,916 -0.1%
+Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area
+Fort Monroe Close (1,393) (1,948) 0 0 (1,393) (1,948) (223) (3,564) (4,418) (7,982) 978,888 -0.8%
+Langley Air Force Base Gain (53) (46) 780 68 727 22 0 749 796 1,545 978,888 0.2%
+Naval Amphibious Base Little Creek
+Gain 0 0 10 27 10 27 0 37 48 85 978,888 0.0%
+Naval Shipyard Norfolk Gain 0 0 177 1,774 177 1,774 85 2,036 2,744 4,780 978,888 0.5%
+Naval Station Norfolk Gain (373) (1,085) 3,820 356 3,447 (729) 89 2,807 2,716 5,523 978,888 0.6%
+Naval Support Activity Norfolk Gain (6) 0 573 205 567 205 16 788 899 1,687 978,888 0.2%
+Fort Eustis Realign (3,863) (852) 962 1,432 (2,901) 580 169 (2,152) (2,066) (4,218) 978,888 -0.4%
+Naval Air Station Oceana Realign (110) (3) 0 53 (110) 50 0 (60) (46) (106) 978,888 0.0%
+Naval Medical Center Portsmouth Realign (463) (25) 28 0 (435) (25) (1) (461) (494) (955) 978,888 -0.1%
+Naval Weapons Station Yorktown Realign 0 (179) 0 0 0 (179) 0 (179) (248) (427) 978,888 0.0%
+Total (6,261) (4,138) 6,350 3,915 89 (223) 135 1 (69) (68) 978,888 0.0%
+This list does not include locations where no changes in military or civilian jobs are affected. B-42 Military figures include student load changes.
+________________
+Changes as Percent of Employment
+Warner Robins, GA Metropolitan Statistical Area
+Robins Air Force Base Gain (484) (225) 453 224 (31) (1) 781 749 445 1,194 65,130 1.8%
+Total (484) (225) 453 224 (31) (1) 781 749 445 1,194 65,130 1.8%
+Warren-Farmington Hills-Troy, MI Metropolitan Division
+Selfridge Army Activity Close (126) (174) 0 0 (126) (174) 0 (300) (180) (480) 1,505,252 0.0%
+Selfridge Air National Guard Base Gain (3) (76) 72 167 69 91 (76) 84 51 135 1,505,252 0.0%
+Total (129) (250) 72 167 (57) (83) (76) (216) (129) (345) 1,505,252 0.0%
+Warrensburg, MO Micropolitan Statistical Area
+Whiteman Air Force Base Gain 0 0 3 58 3 58 0 61 49 110 28,670 0.4%
+Total 0 0 3 58 3 58 0 61 49 110 28,670 0.4%
+This list does not include locations where no changes in military or civilian jobs are affected. B-43 Military figures include student load changes. Economic Area
+Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Installation Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division
+Navy Reserve Center Adelphi Close (17) 0 0 0 (17) 0 0 (17) (10) (27) 2,771,791 0.0%
+Leased Space - DC Close/Realign (103) (68) 0 79 (103) 11 0 (92) (56) (148) 2,771,791 0.0%
+Leased Space - VA Close/Realign (6,199) (15,539) 0 0 (6,199) (15,539) (972) (22,710) (16,291) (39,001) 2,771,791 -1.4%
+Andrews Air Force Base Gain (416) (189) 607 489 191 300 (91) 400 286 686 2,771,791 0.0%
+Fort Belvoir Gain (466) (2,281) 4,537 8,010 4,071 5,729 2,058 11,858 8,250 20,108 2,771,791 0.7%
+Headquarters Battalion,
+Gain (52) (22) 453 206 401 184 81 666 443 1,109 2,771,791 0.0% Headquarters Marine Corps, Marine Corps Base Quantico Gain (50) 0 496 1,357 446 1,357 1,210 3,013 2,108 5,121 2,771,791 0.2%
+Arlington Service Center Realign (224) (516) 435 406 211 (110) (383) (282) (205) (487) 2,771,791 0.0%
+Bolling Air Force Base Realign (96) (242) 0 0 (96) (242) (61) (399) (283) (682) 2,771,791 0.0%
+Center for Naval Research Realign (25) (313) 0 0 (25) (313) 0 (338) (252) (590) 2,771,791 0.0%
+Defense Finance and Accounting Service, Arlington
+Realign (7) (401) 0 0 (7) (401) 0 (408) (308) (716) 2,771,791 0.0%
+Naval Air Facility Washington Realign (9) (9) 0 0 (9) (9) 0 (18) (12) (30) 2,771,791 0.0%
+Naval District Washington Realign (108) (845) 28 522 (80) (323) 40 (363) (268) (631) 2,771,791 0.0%
+Naval Surface Warfare Center Indian Head
+Realign 0 (137) 0 42 0 (95) 0 (95) (71) (166) 2,771,791 0.0%
+Potomac Annex Realign (4) (5) 0 0 (4) (5) (3) (12) (8) (20) 2,771,791 0.0%
+U.S. Marine Corps Direct Reporting Program Manager
+Realign 0 (32) 0 0 0 (32) 0 (32) (24) (56) 2,771,791 0.0%
+Walter Reed Army Medical Center Realign (2,679) (2,388) 28 31 (2,651) (2,357) (622) (5,630) (3,856) (9,486) 2,771,791 -0.3%
+Total (10,455) (22,987) 6,584 1,142 (3,871) (11,845) 1,257 (14,459) (10,557) (25,016) 2,771,791 -0.9%
+Watertown-Fort Drum, NY Micropolitan Statistical Area
+Navy Reserve Center Watertown Close (9) 0 0 0 (9) 0 0 (9) (5) (14) 62,390 0.0%
+Total (9) 0 0 0 (9) 0 0 (9) (5) (14) 62,390 0.0%
+This list does not include locations where no changes in military or civilian jobs are affected. B-44 Military figures include student load changes.
+________________
+Changes Economic Area Installation Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+as Percent of Employment
+Wheeling, WV-OH Metropolitan Statistical Area
+Navy-Marine Corps Reserve
+Close (16) 0 0 0 (16) 0 0 (16) (5) (21) 80,664 0.0% Center Moundsville
+Total (16) 0 0 0 (16) 0 0 (16) (5) (21) 80,664 0.0%
+Wichita Falls, TX Metropolitan Statistical Area
+Sheppard Air Force Base Realign (2,519) (158) 51 2 (2,468) (156) 0 (2,624) (1,744) (4,368) 93,033 -4.7%
+Total (2,519) (158) 51 2 (2,468) (156) 0 (2,624) (1,744) (4,368) 93,033 -4.7%
+Wichita, KS Metropolitan Statistical Area
+McConnell Air Force Base Gain (27) (183) 704 28 677 (155) 0 522 308 830 364,878 0.2%
+U.S. Army Reserve Center Wichita
+Realign (22) (56) 0 0 (22) (56) 0 (78) (76) (154) 364,878 0.0%
+Total (49) (239) 704 28 655 (211) 0 444 232 676 364,878 0.2%
+Williamsport, PA Metropolitan Statistical Area
+U.S. Army Reserve Center Williamsport
+Close (25) (4) 0 0 (25) (4) 0 (29) (16) (45) 67,466 -0.1%
+Total (25) (4) 0 0 (25) (4) 0 (29) (16) (45) 67,466 -0.1%
+Wilmington, DE-MD-NJ Metropolitan Division
+Kirkwood U.S. Army Reserve Center, Newark
+Close (7) (2) 0 0 (7) (2) 0 (9) (4) (13) 405,766 0.0%
+New Castle County Airport Air Guard Station
+Realign (47) (101) 0 0 (47) (101) 0 (148) (101) (249) 405,766 -0.1%
+Total (54) (103) 0 0 (54) (103) 0 (157) (105) (262) 405,766 -0.1%
+Youngstown-Warren-Boardman, OH-PA Metropolitan Statistical Area
+Youngstown-Warren Regional Airport
+Gain 0 0 0 8 0 8 0 8 7 15 307,480 0.0%
+Total 0 0 0 8 0 8 0 8 7 15 307,480 0.0%
+This list does not include locations where no changes in military or civilian jobs are affected. B-45 Military figures include student load changes.
+________________
+Changes as Percent of Employment
+Yuba City, CA Metropolitan Statistical Area
+Beale Air Force Base Realign (8) (171) 0 0 (8) (171) 0 (179) (132) (311) 68,256 -0.5%
+Total (8) (171) 0 0 (8) (171) 0 (179) (132) (311) 68,256 -0.5%
+Yuma, AZ Metropolitan Statistical Area
+Marine Corps Air Station Yuma Gain 0 0 0 5 0 5 0 5 4 9 76,606 0.0%
+Total 0 0 0 5 0 5 0 5 4 9 76,606 0.0%
+Grand Total* (118,880) (84,799) 122,269 65,908 3,389 (18,891) 2,818 (12,684) *Does not include the reduction of 14,172 military positions and increase of 667 civilian positions from Germany, Korea, and Undistributed Actions.
+This list does not include locations where no changes in military or civilian jobs are affected. B-46 Military figures include student load changes. Economic Area
+Out In Net Gain/(Loss) Net Mission
+Total
+Indirect
+Total
+Economic Installation Action
+Mil Civ Mil Civ Mil Civ
+Contractor
+Direct
+Changes
+Job
+Area Changes
+Employment
+________________
+Appendix B Addendum List of Bases in Economic Regions
+State Base Economic Region Alabama Abbott U.S. Army Reserve Center Tuskegee Tuskegee, AL Micropolitan Statistical Area
+Anderson U.S. Army Reserve Center Troy Troy, AL Micropolitan Statistical Area Anniston Army Depot Anniston-Oxford, AL Metropolitan Statistical Area Armed Forces Reserve Center (New) Tuscaloosa, AL Metropolitan Statistical Area Armed Forces Reserve Center Brimingham Birmingham-Hoover, AL Metropolitan Statistical Area Armed Forces Reserve Center Mobile Mobile, AL Metropolitan Statistical Area Armed Forces Reserve Center Pelham (New) Birmingham-Hoover, AL Metropolitan Statistical Area Army National Guard Reserve Center Northport Tusaloosa Tuscaloosa, AL Metropolitan Statistical Area BG William P Screws U.S. Army Reserve Center Montgomery Montgomery, AL Metropolitan Statistical Area Birmingham Armed Forces Reserve Center Birmingham-Hoover, AL Metropolitan Statistical Area Birmingham International Airport Air Guard Station Birmingham-Hoover, AL Metropolitan Statistical Area Dannelly Field Air Guard Station Montgomery, AL Metropolitan Statistical Area Faith Wing U.S. Army Reserve Center Anniston Anniston-Oxford, AL Metropolitan Statistical Area Finnel Armed Forces Reserve Center ,Tuscaloosa Tuscaloosa, AL Metropolitan Statistical Area Flowers U.S. Army Reserve Center Decatur Decatur, AL Metropolitan Statistical Area Fort Ganey Army National Guard Reserve Center Mobile Mobile, AL Metropolitan Statistical Area Fort Graham Army National Guard Reserve Center Birmingham Birmingham-Hoover, AL Metropolitan Statistical Area Fort Hanna Army National Guard Reserve Center Birmingham Birmingham-Hoover, AL Metropolitan Statistical Area Fort Hardeman Army National Guard Reserve Center Mobile Mobile, AL Metropolitan Statistical Area Fort Powell-Shamblin Army National Guard Reserve Center Tusaloosa Tuscaloosa, AL Metropolitan Statistical Area Fort Rucker Enterprise-Ozark, AL Micropolitan Statistical Area Fort Terhune Army National Guard Reserve Center Birmingham Birmingham-Hoover, AL Metropolitan Statistical Area Gary U.S. Army Reserve Center Enterprize Enterprise-Ozark, AL Micropolitan Statistical Area
+Joint Forces Headquarters (Armed Forces Reserve Center) Montgomery Montgomery, AL Metropolitan Statistical Area Leased Space - AL Huntsville, AL Metropolitan Statistical Area Maxwell Air Force Base Montgomery, AL Metropolitan Statistical Area Navy Recruiting District Montgomery Montgomery, AL Metropolitan Statistical Area Navy Reserve Center Tuscaloosa AL Tuscaloosa, AL Metropolitan Statistical Area Navy-Marine Corps Reseve Center, Mobile AL Mobile, AL Metropolitan Statistical Area Redstone Arsenal Huntsville, AL Metropolitan Statistical Area SMD Annex Bldg Montgomery Montgomery, AL Metropolitan Statistical Area The Adjutant General Bldg, AL Army National Guard Montgomery Montgomery, AL Metropolitan Statistical Area USARC Birmingham-Hoover, AL Metropolitan Statistical Area Wright U.S. Army Reserve Center Mobile, AL Metropolitan Statistical Area Alaska Eielson Air Force Base Fairbanks, AK Metropolitan Statistical Area
+Elmendorf Air Force Base Anchorage, AK Metropolitan Statistical Area Fort Greely Fairbanks, AK Metropolitan Statistical Area
+B-47
+________________
+State Base Economic Region
+Fort Richardson Anchorage, AK Metropolitan Statistical Area Fort Wainwright Fairbanks, AK Metropolitan Statistical Area Kulis Air Guard Station Anchorage, AK Metropolitan Statistical Area Arizona Air Force Research Lab, Mesa City Phoenix-Mesa-Scottsdale, AZ Metropolitan Statistical Area
+Allen Hall Armed Forces Reserve Center, Tucson Tucson, AZ Metropolitan Statistical Area Army National Guard Roosevelt Phoenix-Mesa-Scottsdale, AZ Metropolitan Statistical Area Buckeye Armed Forces Reserve Center Phoenix-Mesa-Scottsdale, AZ Metropolitan Statistical Area Deer Valley U.S. Army Reserve #2, Phoenix Phoenix-Mesa-Scottsdale, AZ Metropolitan Statistical Area Fort Huachuca Sierra Vista-Douglas, AZ Micropolitan Statistical Area Leased Space - AZ Phoenix-Mesa-Scottsdale, AZ Metropolitan Statistical Area Luke Air Force Base Phoenix-Mesa-Scottsdale, AZ Metropolitan Statistical Area Marana Armed Forces Reserve Center Phoenix-Mesa-Scottsdale, AZ Metropolitan Statistical Area Phoenix Sky Harbor International Airport Phoenix-Mesa-Scottsdale, AZ Metropolitan Statistical Area U.S. Army Reserve Area Maintenance Support Facility Fort Huachuca Sierra Vista-Douglas, AZ Micropolitan Statistical Area Arkansas Armed Forces Reserve Center Arkadelphia Arkadelphia, AR Micropolitan Statistical Area
+Armed Forces Reserve Center Fort Chaffee (new) Fort Smith, AR-OK Metropolitan Statistical Area Armed Forces Reserve Center Northwest Arkansas Fayetteville-Springdale-Rogers, AR-MO Metropolitan Statistical Area Army National Guard Field Maintenance Shop, Jonesboro Jonesboro, AR Metropolitan Statistical Area Army National Guard Reserve Center Arkadelphia Arkadelphia, AR Micropolitan Statistical Area Army National Guard Reserve Center Bentonville Fayetteville-Springdale-Rogers, AR-MO Metropolitan Statistical Area Army National Guard Reserve Center Camden Camden, AR Micropolitan Statistical Area Army National Guard Reserve Center Combined Support Maintenance Shop Fort Chaffee Fort Smith, AR-OK Metropolitan Statistical Area Army National Guard Reserve Center El Dorado El Dorado, AR Micropolitan Statistical Area Army National Guard Reserve Center Fayetteville Fayetteville-Springdale-Rogers, AR-MO Metropolitan Statistical Area Army National Guard Reserve Center Fort Smith Fort Smith, AR-OK Metropolitan Statistical Area Army National Guard Reserve Center Hot Springs Hot Springs, AR Metropolitan Statistical Area Army National Guard Reserve Center Jonesboro Jonesboro, AR Metropolitan Statistical Area Army National Guard Reserve Center Paragould Paragould, AR Micropolitan Statistical Area Army National Guard Reserve Center Pine Bluff Pine Bluff, AR Metropolitan Statistical Area Army National Guard Reserve Center Rogers Fayetteville-Springdale-Rogers, AR-MO Metropolitan Statistical Area Army National Guard Reserve Center Springdale Fayetteville-Springdale-Rogers, AR-MO Metropolitan Statistical Area Army National Guard Reserve Center Van Buren Fort Smith, AR-OK Metropolitan Statistical Area BG Darby U.S. Army Reserve Center Fort Smith, AR-OK Metropolitan Statistical Area Camp Pike (90th) Little Rock-North Little Rock, AR Metropolitan Statistical Area Chaffee 475th Div U.S. Army Reserve Center Fort Smith, AR-OK Metropolitan Statistical Area Charleston Armory Fort Smith, AR-OK Metropolitan Statistical Area El Dorado Armed Forces Reserve Center El Dorado, AR Micropolitan Statistical Area Fort Chaffee Maneuver Training Center ISU Fort Smith, AR-OK Metropolitan Statistical Area Fort Smith Regional Fort Smith, AR-OK Metropolitan Statistical Area JMF Fort Chaffee Fort Smith, AR-OK Metropolitan Statistical Area Jonesboro Armed Forces Reserve Center Jonesboro, AR Metropolitan Statistical Area Little Rock Air Force Base Little Rock-North Little Rock, AR Metropolitan Statistical Area
+B-48
+________________
+State Base Economic Region
+New Armed Forces Reserve Center Hot Springs Hot Springs, AR Metropolitan Statistical Area Pine Bluff Armed Forces Reserve Center Pine Bluff, AR Metropolitan Statistical Area Pine Bluff Arsenal Pine Bluff, AR Metropolitan Statistical Area Stone U.S. Army Reserve Center, Pine Bluff Pine Bluff, AR Metropolitan Statistical Area U.S. Army Reserve Area Maintenance Support Facility,Malvern Hot Spring County, AR U.S. Army Reserve Center Arkadelphia Arkadelphia, AR Micropolitan Statistical Area U.S. Army Reserve Center Camden Camden, AR Micropolitan Statistical Area U.S. Army Reserve Center El Dorado El Dorado, AR Micropolitan Statistical Area U.S. Army Reserve Center Hot Springs Hot Springs, AR Metropolitan Statistical Area U.S. Army Reserve Center Jonesboro Jonesboro, AR Metropolitan Statistical Area U.S. Army Reserve Center Pond Fayetteville-Springdale-Rogers, AR-MO Metropolitan Statistical Area U.S. Army Reserve ECS-15, Barling Fort Smith, AR-OK Metropolitan Statistical Area California Armed Forces Reserve Center Bell Los Angeles-Long Beach-Glendale, CA Metropolitan Division
+Armed Forces Reserve Center Moffett San Jose-Sunnyvale-Santa Clara, CA Metropolitan Statistical Area Army National Guard OMS, San Jose San Jose-Sunnyvale-Santa Clara, CA Metropolitan Statistical Area Army National Guard Reserve Center Bell Los Angeles-Long Beach-Glendale, CA Metropolitan Division Army National Guard Reserve Center Montebello Los Angeles-Long Beach-Glendale, CA Metropolitan Division Army National Guard Reserve Center Redwood City San Francisco-San Mateo-Redwood City, CA Metropolitan Division Army National Guard Reserve Center San Lorenzo Oakland-Fremont-Hayward, CA Metropolitan Division Army National Guard Reserve Center Sunnyvale San Jose-Sunnyvale-Santa Clara, CA Metropolitan Statistical Area Beale Air Force Base Yuba City, CA Metropolitan Statistical Area Bell Armed Forces Reserve Center Los Angeles-Long Beach-Glendale, CA Metropolitan Division Camp Parks (91st) Oakland-Fremont-Hayward, CA Metropolitan Division Channel Islands Air Guard Station Oxnard-Thousand Oaks-Ventura, CA Metropolitan Statistical Area Defense Distribution Depot San Joaquin Stockton, CA Metropolitan Statistical Area Defense Finance and Accounting Service, Oakland Oakland-Fremont-Hayward, CA Metropolitan Division Defense Finance and Accounting Service, San Bernardino Riverside-San Bernardino-Ontario, CA Metropolitan Statistical Area Defense Finance and Accounting Service, San Diego San Diego-Carlsbad-San Marcos, CA Metropolitan Statistical Area Defense Finance and Accounting Service, Seaside Salinas, CA Metropolitan Statistical Area Desiderio U.S. Army Reserve Center, Pasadena Los Angeles-Long Beach-Glendale, CA Metropolitan Division Edwards Air Force Base Bakersfield, CA Metropolitan Statistical Area Fort Hunter Liggett Salinas, CA Metropolitan Statistical Area Fresno Air Terminal Fresno, CA Metropolitan Statistical Area Hall U.S. Army Reserve Center Mountain View San Jose-Sunnyvale-Santa Clara, CA Metropolitan Statistical Area Hazard Park U.S. Army Reserve Center, Los Angeles Los Angeles-Long Beach-Glendale, CA Metropolitan Division Human Resources Support Center Southwest San Diego-Carlsbad-San Marcos, CA Metropolitan Statistical Area Leased Space - CA Los Angeles-Long Beach-Glendale, CA Metropolitan Division Los Alamitos (63rd) Santa Ana-Anaheim-Irvine, CA Metropolitan Division March Air Reserve Base Riverside-San Bernardino-Ontario, CA Metropolitan Statistical Area Marine Corps Base Camp Pendleton San Diego-Carlsbad-San Marcos, CA Metropolitan Statistical Area Marine Corps Base Miramar San Diego-Carlsbad-San Marcos, CA Metropolitan Statistical Area Marine Corps Logistics Base Barstow Riverside-San Bernardino-Ontario, CA Metropolitan Statistical Area Marine Corps Reseve Center Pasadena CA Los Angeles-Long Beach-Glendale, CA Metropolitan Division
+B-49
+________________
+State Base Economic Region
+Moffett Field San Jose-Sunnyvale-Santa Clara, CA Metropolitan Statistical Area Naval Air Station Lemore Hanford-Corcoran, CA Metropolitan Statistical Area Naval Air Weapons Station China Lake Bakersfield, CA Metropolitan Statistical Area Naval Base Coronado San Diego-Carlsbad-San Marcos, CA Metropolitan Statistical Area Naval Base Point Loma San Diego-Carlsbad-San Marcos, CA Metropolitan Statistical Area Naval Base Ventura City Oxnard-Thousand Oaks-Ventura, CA Metropolitan Statistical Area Naval Medical Center San Diego San Diego-Carlsbad-San Marcos, CA Metropolitan Statistical Area Naval Station San Diego San Diego-Carlsbad-San Marcos, CA Metropolitan Statistical Area Naval Support Activity Corona Riverside-San Bernardino-Ontario, CA Metropolitan Statistical Area Naval Weapons Station Concord Oakland-Fremont-Hayward, CA Metropolitan Division Naval Weapons Station Fallbrook San Diego-Carlsbad-San Marcos, CA Metropolitan Statistical Area Naval Weapons Station Seal Beach Santa Ana-Anaheim-Irvine, CA Metropolitan Division Navy-Marine Corps Reseve Center, Encino Los Angeles-Long Beach-Glendale, CA Metropolitan Division Navy-Marine Corps Reseve Center, Los Angeles Los Angeles-Long Beach-Glendale, CA Metropolitan Division Onizuka Air Force Station San Jose-Sunnyvale-Santa Clara, CA Metropolitan Statistical Area Richey U.S. Army Reserve Center, San Jose San Jose-Sunnyvale-Santa Clara, CA Metropolitan Statistical Area Riverbank Army Ammunition Plant Modesto, CA Metropolitan Statistical Area Schroeder Hall U.S. Army Reserve Center, Long Beach Los Angeles-Long Beach-Glendale, CA Metropolitan Division Sierra Army Depot Susanville, CA Micropolitan Statistical Area U.S. Army Reserve Center Moffett Field San Jose-Sunnyvale-Santa Clara, CA Metropolitan Statistical Area Vandenberg Air Force Base Santa Barbara-Santa Maria-Goleta, CA Metropolitan Statistical Area Vandenburg Air Force Base Santa Barbara-Santa Maria-Goleta, CA Metropolitan Statistical Area Colorado Air Reserve Personnel Center Denver-Aurora, CO Metropolitan Statistical Area Buckley Air Force Base Denver-Aurora, CO Metropolitan Statistical Area Fort Carson Colorado Springs, CO Metropolitan Statistical Area Leased Space - CO Colorado Springs, CO Metropolitan Statistical Area Peterson Air Force Base Colorado Springs, CO Metropolitan Statistical Area Schriever Air Force Base Colorado Springs, CO Metropolitan Statistical Area United States Air Force Academy Colorado Springs, CO Metropolitan Statistical Area Connecticut Army National Guard Reserve Center Manchester Hartford-West Hartford-East Hartford, CT Metropolitan Statistical Area
+Army National Guard Reserve Center Naugatuck New Haven-Milford, CT Metropolitan Statistical Area Army National Guard Reserve Center New Britain Hartford-West Hartford-East Hartford, CT Metropolitan Statistical Area Army National Guard Reserve Center Newington Hartford-West Hartford-East Hartford, CT Metropolitan Statistical Area Army National Guard Reserve Center Norwalk Bridgeport-Stamford-Norwalk, CT Metropolitan Statistical Area Army National Guard Reserve Center Putnam Willimantic, CT Micropolitan Statistical Area Bradley International Airport Air Guard Station Hartford-West Hartford-East Hartford, CT Metropolitan Statistical Area New Haven New Haven-Milford, CT Metropolitan Statistical Area New Middletown Armed Forces Reserve Center Hartford-West Hartford-East Hartford, CT Metropolitan Statistical Area New Newtown Armed Forces Reserve Center Bridgeport-Stamford-Norwalk, CT Metropolitan Statistical Area SGT George D. Libby U.S. Army Reserve Center, New Haven New Haven-Milford, CT Metropolitan Statistical Area Submarine Base New London Norwich-New London, CT Metropolitan Statistical Area Sutcovoy U.S. Army Reserve Center, Waterbury New Haven-Milford, CT Metropolitan Statistical Area Turner U.S. Army Reserve Center, Fairfield Bridgeport-Stamford-Norwalk, CT Metropolitan Statistical Area
+B-50
+________________
+State Base Economic Region
+U.S. Army Reserve Area Maintenance Support Facility #69, Milford Bridgeport-Stamford-Norwalk, CT Metropolitan Statistical Area U.S. Army Reserve Center Area Maintenance Support Facility Middletown Hartford-West Hartford-East Hartford, CT Metropolitan Statistical Area U.S. Army Reserve Center Area Maintenance Support Facility Windsor Lock Hartford-West Hartford-East Hartford, CT Metropolitan Statistical Area U.S. Army Reserve Center Danbury Bridgeport-Stamford-Norwalk, CT Metropolitan Statistical Area Delaware Army National Guard Reserve Center Middletown Wilmington, DE-MD-NJ Metropolitan Division
+Dover Air Force Base Dover, DE Metropolitan Statistical Area Kirkwood U.S. Army Reserve Center, Newark Wilmington, DE-MD-NJ Metropolitan Division New Castle County Airport Air Guard Station Wilmington, DE-MD-NJ Metropolitan Division Newark Armed Forces Reserve Center (New) Wilmington, DE-MD-NJ Metropolitan Division U.S. Army Reserve Center / Organizational Maintence Site Newark Wilmington, DE-MD-NJ Metropolitan Division District of Columbia Bolling Air Force Base Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division Leased Space - DC Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division Naval District Washington Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division Potomac Annex Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division Walter Reed Army Medical Center Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division Florida Defense Finance and Accounting Service, Orlando Orlando, FL Metropolitan Statistical Area
+Eglin Air Force Base Fort Walton Beach-Crestview-Destin, FL Metropolitan Statistical Area Homestead Air Reserve Station Miami-Miami Beach-Kendall, FL Metropolitan Division Hurlburt Field Fort Walton Beach-Crestview-Destin, FL Metropolitan Statistical Area Jacksonville International Airport Air Guard Station Jacksonville, FL Metropolitan Statistical Area MacDill Air Force Base Tampa-St. Petersburg-Clearwater, FL Metropolitan Statistical Area Naval Air Station Jacksonville Jacksonville, FL Metropolitan Statistical Area Naval Air Station Pensacola Pensacola-Ferry Pass-Brent, FL Metropolitan Statistical Area Naval Station Mayport Jacksonville, FL Metropolitan Statistical Area Naval Support Activity Panama City Panama City-Lynn Haven, FL Metropolitan Statistical Area Navy Reserve Center ST Petersburg Tampa-St. Petersburg-Clearwater, FL Metropolitan Statistical Area Patrick Air Force Base Palm Bay-Melbourne-Titusville, FL Metropolitan Statistical Area Tyndall Air Force Base Panama City-Lynn Haven, FL Metropolitan Statistical Area Georgia Dobbins Air Reserve Base Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area
+Fort Benning Columbus, GA-AL Metropolitan Statistical Area Fort Benning Bldg 15 Columbus, GA-AL Metropolitan Statistical Area Fort Benning Bldg 4960 Columbus, GA-AL Metropolitan Statistical Area Fort Gillem Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area Fort McPherson Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area Leased Space - GA Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area Marine Corps Logistics Base Albany Albany, GA Metropolitan Statistical Area Marine Corps Reseve Center Rome GA Rome, GA Metropolitan Statistical Area Moody Air Force Base Valdosta, GA Metropolitan Statistical Area Naval Air Station Atlanta Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area Peachtree Leases Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area Robins Air Force Base Warner Robins, GA Metropolitan Statistical Area
+B-51
+________________
+State Base Economic Region
+Savannah International Airport Air Guard Station Savannah, GA Metropolitan Statistical Area Submarine Base Kings Bay St. Marys, GA Micropolitan Statistical Area U.S. Army Reserve Center Columbus Columbus, GA-AL Metropolitan Statistical Area U.S. Army Reserve Center Fort Benning Columbus, GA-AL Metropolitan Statistical Area Guam Andersen Air Force Base Guam County, GU Navy Region Guam Guam County, GU Hawaii Armed Forces Reserve Center Keaukaha Hilo, HI Micropolitan Statistical Area
+Army National Guard Reserve Center Honokaa Kapaa, HI Micropolitan Statistical Area Army National Guard Reserve Center Keaau Hilo, HI Micropolitan Statistical Area Hickam Air Force Base Honolulu, HI Metropolitan Statistical Area Kunieda U.S. Army Reserve Center, Hilo Hilo, HI Micropolitan Statistical Area Naval Station Pearl Harbor Honolulu, HI Metropolitan Statistical Area Idaho Boise Air Terminal Air Guard Station Boise City-Nampa, ID Metropolitan Statistical Area
+Mountain Home Air Force Base Mountain Home, ID Micropolitan Statistical Area Navy Reserve Center Pocatello Pocatello, ID Metropolitan Statistical Area Illinois Armed Forces Reserve Center Waukegan Lake County-Kenosha County, IL-WI Metropolitan Division
+Armed Forces Reserve Center Carbondale Carbondale, IL Micropolitan Statistical Area Armed Forces Reserve Center Lake County, IL Lake County-Kenosha County, IL-WI Metropolitan Division Armed Forces Reserve Center Mt Vernon New Mount Vernon, IL Micropolitan Statistical Area Army National Guard Reserve Center B73 Mt Vernon Mount Vernon, IL Micropolitan Statistical Area Army National Guard Reserve Center B75 Mt Vernon Mount Vernon, IL Micropolitan Statistical Area Army National Guard Reserve Center Cairo Cape Girardeau-Jackson, MO-IL Micropolitan Statistical Area Army National Guard Reserve Center Carbondale Carbondale, IL Micropolitan Statistical Area Army National Guard Reserve Center Salem Centralia, IL Micropolitan Statistical Area Army National Guard Reserve Center Waukegan Lake County-Kenosha County, IL-WI Metropolitan Division Capital Airport Air Guard Station Springfield, IL Metropolitan Statistical Area Fort Sheridan Lake County-Kenosha County, IL-WI Metropolitan Division Greater Peoria Regional Airport Peoria, IL Metropolitan Statistical Area Naval Station Great Lakes Lake County-Kenosha County, IL-WI Metropolitan Division Navy Reserve Center Forest Park Chicago-Naperville-Joliet, IL Metropolitan Division Rock Island Arsenal Davenport-Moline-Rock Island, IA-IL Metropolitan Statistical Area Scott Air Force Base St. Louis, MO-IL Metropolitan Statistical Area U.S. Army Reserve Center Centralia Centralia, IL Micropolitan Statistical Area U.S. Army Reserve Center Fairfield Wayne County, IL U.S. Army Reserve Center Marion Marion-Herrin, IL Micropolitan Statistical Area Indiana Armed Forces Reserve Center Greenwood/Frank Indianapolis, IN Metropolitan Statistical Area
+Armed Forces Reserve Center Lafeyette Lafayette, IN Metropolitan Statistical Area Army National Guard Reserve Center Remington Gary, IN Metropolitan Division Army National Guard Monticello White County, IN Army National Guard Reserve Center Attica Fountain County, IN Army National Guard Reserve Center Boswell Lafayette, IN Metropolitan Statistical Area Army National Guard Reserve Center Darlington Florence, SC Metropolitan Statistical Area Army National Guard Reserve Center Delphi Lafayette, IN Metropolitan Statistical Area
+B-52
+________________
+State Base Economic Region
+Camp Atterbury Bldg #4 Indianapolis, IN Metropolitan Statistical Area Camp Atterbury Bldg #500 Indianapolis, IN Metropolitan Statistical Area Crane Army Ammunition Plant Martin County, IN Defense Finance and Accounting Service, Indianapolis Indianapolis, IN Metropolitan Statistical Area Fort Wayne International Airport Air Guard Station Fort Wayne, IN Metropolitan Statistical Area Hulman Regional Airport Air Guard Station Terre Haute, IN Metropolitan Statistical Area Leased Space - IN Indianapolis, IN Metropolitan Statistical Area Naval Support Activity Crane Martin County, IN Navy Marine Corps Reserve Center Grissom Air Reserve Base, Bunker Hill Peru, IN Micropolitan Statistical Area Navy Recruiting District Indiana Indianapolis, IN Metropolitan Statistical Area Navy Reserve Center Evansville Evansville, IN-KY Metropolitan Statistical Area Newport Chemical Depot Terre Haute, IN Metropolitan Statistical Area U.S. Army Reserve Center Lafeyette Lafayette, IN Metropolitan Statistical Area U.S. Army Reserve Center Seston Indianapolis, IN Metropolitan Statistical Area Iowa Armed Forces Reserve Center Camp Dodge Des Moines, IA Metropolitan Statistical Area
+Armed Forces Reserve Center Cedar Rapids Cedar Rapids, IA Metropolitan Statistical Area Armed Forces Reserve Center Middletown Burlington, IA-IL Micropolitan Statistical Area Armed Forces Reserve Center New Muscaline Muscatine, IA Micropolitan Statistical Area Army National Guard Reserve Center Camp Dodge Des Moines, IA Metropolitan Statistical Area Army National Guard Reserve Center Cedar Rapids Cedar Rapids, IA Metropolitan Statistical Area Army National Guard Reserve Center Muscaline Muscatine, IA Micropolitan Statistical Area Des Moines International Airport Air Guard Station Des Moines, IA Metropolitan Statistical Area Iowa Army Ammunition Plant Burlington, IA-IL Micropolitan Statistical Area Navy Reserve Center Cedar Rapids Cedar Rapids, IA Metropolitan Statistical Area Navy Reserve Center Sioux City Sioux City, IA-NE-SD Metropolitan Statistical Area Navy-Marine Corps Reseve Center Dubuque Dubuque, IA Metropolitan Statistical Area Sioux Gateway Airport Air Guard Sioux City, IA-NE-SD Metropolitan Statistical Area U.S. Army Reserve /Area Maintenance Support Facility Middletown Hartford-West Hartford-East Hartford, CT Metropolitan Statistical Area U.S. Army Reserve Center Cedar Rapids Cedar Rapids, IA Metropolitan Statistical Area U.S. Army Reserve Center Muscaline Muscatine, IA Micropolitan Statistical Area Kansas Forbes Field Air Guard Station Topeka, KS Metropolitan Statistical Area
+Fort Leavenworth Kansas City, MO-KS Metropolitan Statistical Area Fort Riley Manhattan, KS Micropolitan Statistical Area Kansas Army Ammunition Plant Parsons, KS Micropolitan Statistical Area McConnell Air Force Base Wichita, KS Metropolitan Statistical Area U.S. Army Reserve Center Wichita Wichita, KS Metropolitan Statistical Area Kentucky Armed Forces Reserve Center Paducah Paducah, KY-IL Micropolitan Statistical Area Army National Guard OMS, Paducah Paducah, KY-IL Micropolitan Statistical Area Army National Guard Reserve Center Paducah Paducah, KY-IL Micropolitan Statistical Area Blue Grass Army Depot Richmond-Berea, KY Micropolitan Statistical Area Blue Grass Army Depot USAR/Army National Guard Bldgs Richmond-Berea, KY Micropolitan Statistical Area Defense Finance and Accounting Service, Lexington Lexington-Fayette, KY Metropolitan Statistical Area
+B-53
+________________
+State Base Economic Region
+Fort Campbell Clarksville, TN-KY Metropolitan Statistical Area Fort Knox Elizabethtown, KY Metropolitan Statistical Area Louisville International Airport Air Guard Station Louisville, KY-IN Metropolitan Statistical Area Navy Recruiting Command Louisville Louisville, KY-IN Metropolitan Statistical Area Navy-Marine Corps Reseve Center Lexington Lexington-Fayette, KY Metropolitan Statistical Area U.S. Army Reserve #2 , Paducah Paducah, KY-IL Micropolitan Statistical Area U.S. Army Reserve Center Louisville Louisville, KY-IN Metropolitan Statistical Area U.S. Army Reserve Center Maysville Maysville, KY Micropolitan Statistical Area U.S. Army Reserve Center Paducah Paducah, KY-IL Micropolitan Statistical Area U.S. Army Reserve Center Richmond Richmond-Berea, KY Micropolitan Statistical Area Louisiana Armed Forces Reserve Center Shreveport Shreveport-Bossier City, LA Metropolitan Statistical Area
+Army National Guard Organizational Maintence Site #8, Baton Rouge Baton Rouge, LA Metropolitan Statistical Area Army National Guard Reserve Center Baton Rouge Baton Rouge, LA Metropolitan Statistical Area Barksdale Air Force Base Shreveport-Bossier City, LA Metropolitan Statistical Area Baton Rouge Armed Forces Reserve Center Baton Rouge, LA Metropolitan Statistical Area Leased Space - LA New Orleans-Metairie-Kenner, LA Metropolitan Statistical Area Naval Air Station New Orleans New Orleans-Metairie-Kenner, LA Metropolitan Statistical Area Naval Support Activity New Orleans New Orleans-Metairie-Kenner, LA Metropolitan Statistical Area Navy-Marine Corps Reseve Center Baton Rouge Baton Rouge, LA Metropolitan Statistical Area Roberts U.S. Army Reserve Center, Baton Rouge Baton Rouge, LA Metropolitan Statistical Area U.S. Army Reserve Center Bossier City Shreveport-Bossier City, LA Metropolitan Statistical Area U.S. Army Reserve Center Shreveport Shreveport-Bossier City, LA Metropolitan Statistical Area Maine Bangor International Airport Air Guard Station Bangor, ME Metropolitan Statistical Area
+Defense Finance and Accounting Service, Limestone Aroostook County, ME Naval Air Station Brunswick Portland-South Portland-Biddeford ME Metropolitan Statistical Area Naval Reserve Center, Bangor Bangor, ME Metropolitan Statistical Area Naval Shipyard Portsmouth Portland-South Portland-Biddeford ME Metropolitan Statistical Area Supervisor of Shipbuilding Bath Portland-South Portland-Biddeford ME Metropolitan Statistical Area Maryland Aberdeen Proving Ground Baltimore-Towson, MD Metropolitan Statistical Area
+Andrews Air Force Base Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division Army Research Laboratory, Adelphi Bethesda-Frederick-Gaithersburg, MD Metropolitan Division Bethesda/Chevy Chase Bethesda-Frederick-Gaithersburg, MD Metropolitan Division Defense Finance and Accounting Service, Patuxent River Lexington Park, MD Micropolitan Statistical Area Fort Detrick Bethesda-Frederick-Gaithersburg, MD Metropolitan Division Fort Lewis Lexington Park, MD Micropolitan Statistical Area Fort Meade Baltimore-Towson, MD Metropolitan Statistical Area I-270 Corridor Bethesda-Frederick-Gaithersburg, MD Metropolitan Division Leased Space - MD Baltimore-Towson, MD Metropolitan Statistical Area Martin State Airport Air Guard Station Baltimore-Towson, MD Metropolitan Statistical Area National Naval Medical Center Bethesda Bethesda-Frederick-Gaithersburg, MD Metropolitan Division Naval Air Facility Washington Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division Naval Air Station Patuxent River Lexington Park, MD Micropolitan Statistical Area Naval Station Baltimore-Towson, MD Metropolitan Statistical Area
+B-54
+________________
+State Base Economic Region
+Naval Surface Warfare Center Indian Head Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division Naval Surface Weapons Station Carderock Bethesda-Frederick-Gaithersburg, MD Metropolitan Division Navy Reserve Center Adelphi Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division PFC Flair U.S. Army Reserve Center, Frederick Bethesda-Frederick-Gaithersburg, MD Metropolitan Division Massachusetts Armed Forces Reserve Center Ayers Cambridge-Newton-Framingham, MA Metropolitan Division
+Armed Forces Reserve Center New Westover Springfield, MA Metropolitan Statistical Area Army National Guard Combined Support Maintenance Shop Devens Cambridge-Newton-Framingham, MA Metropolitan Division Army National Guard Reserve Center Ayer Cambridge-Newton-Framingham, MA Metropolitan Division Army National Guard Reserve Center Agawam Worcester, MA Metropolitan Statistical Area Barnes Municipal Airport Air Guard Station Springfield, MA Metropolitan Statistical Area Hanscom Air Force Base Cambridge-Newton-Framingham, MA Metropolitan Division MacArthur U.S. Army Reserve Center, Springfield Springfield, MA Metropolitan Statistical Area Malony U.S. Army Reserve Center Cambridge-Newton-Framingham, MA Metropolitan Division Natick Soldier Systems Center Cambridge-Newton-Framingham, MA Metropolitan Division Naval Shipyard Puget Sound-Boston Detachment Boston-Quincy, MA Metropolitan Division Otis Air Guard Base Barnstable Town, MA Metropolitan Statistical Area U.S. Army Reserve Ayer Area 3713 Cambridge-Newton-Framingham, MA Metropolitan Division U.S. Army Reserve ECS 65 Ayers Cambridge-Newton-Framingham, MA Metropolitan Division U.S. Army Reserve Training Area Devens Cambridge-Newton-Framingham, MA Metropolitan Division USAR 323 Maint Deven Cambridge-Newton-Framingham, MA Metropolitan Division USAR 98 RTSM Devens Cambridge-Newton-Framingham, MA Metropolitan Division Westover Air Force Base Springfield, MA Metropolitan Statistical Area Westover U.S. Army Reserve Center, Cicopee Springfield, MA Metropolitan Statistical Area Michigan Armed Forces Reserve Center Fort Custer Kalamazoo-Portage, MI Metropolitan Statistical Area
+Detroit Detroit-Livonia-Dearborn, MI Metropolitan Division Detroit / Selfridge Detroit-Livonia-Dearborn, MI Metropolitan Division Detroit / Selfridge Warren-Farmington Hills-Troy, MI Metropolitan Division Detroit Arsenal Detroit-Livonia-Dearborn, MI Metropolitan Division Navy Reserve Center Marquette Marquette, MI Micropolitan Statistical Area Parisan U.S. Army Reserve Center, Lansing Lansing-East Lansing, MI Metropolitan Statistical Area Selfridge Air National Guard Base Warren-Farmington Hills-Troy, MI Metropolitan Division Selfridge Army Activity Warren-Farmington Hills-Troy, MI Metropolitan Division U.S. Army Reserve Center Area Maintenance Support Facility Battle Creek Battle Creek, MI Metropolitan Statistical Area W. K. Kellogg Airport Air Guard Station Battle Creek, MI Metropolitan Statistical Area Minnesota Armed Forces Reserve Center New Cambridge Minneapolis-St. Paul-Bloomington, MN-WI Metropolitan Statistical Area
+Armed Forces Reserve Center New Faribault Faribault-Northfield, MN Micropolitan Statistical Area Army National Guard Cambridge Minneapolis-St. Paul-Bloomington, MN-WI Metropolitan Statistical Area Army National Guard Faribault Faribault-Northfield, MN Micropolitan Statistical Area Duluth International Airport Air Guard Station Duluth, MN-WI Metropolitan Statistical Area Fort Snelling Minneapolis-St. Paul-Bloomington, MN-WI Metropolitan Statistical Area Navy Reserve Center Duluth Duluth, MN-WI Metropolitan Statistical Area U.S. Army Reserve Cambridge Minneapolis-St. Paul-Bloomington, MN-WI Metropolitan Statistical Area
+B-55
+________________
+State Base Economic Region
+U.S. Army Reserve Faribault Faribault-Northfield, MN Micropolitan Statistical Area x Local - Duluth, MN Duluth, MN-WI Metropolitan Statistical Area Mississippi Columbus Air Force Base Columbus, MS Micropolitan Statistical Area
+Construction Battalion Center Gulfport Gulfport-Biloxi, MS Metropolitan Statistical Area Human Resources Support Center Southeast Gulfport-Biloxi, MS Metropolitan Statistical Area Jackson International Airport Air Guard Station Jackson, MS Metropolitan Statistical Area Keesler Air Force Base Gulfport-Biloxi, MS Metropolitan Statistical Area Key Field Air Guard Station Meridian, MS Micropolitan Statistical Area Mississippi Army Ammunition Plant Picayune, MS Micropolitan Statistical Area Naval Air Station Meridian Meridian, MS Micropolitan Statistical Area Naval Station Pascagoula Pascagoula, MS Metropolitan Statistical Area U.S. Army Reserve Center Vicksburg Vicksburg, MS Micropolitan Statistical Area Missouri Armed Forces Reserve Center Jefferson Barracks St. Louis, MO-IL Metropolitan Statistical Area Army National Guard Reserve Center Jefferson Barracks St. Louis, MO-IL Metropolitan Statistical Area Army Reserve Personnel Center St Louis St. Louis, MO-IL Metropolitan Statistical Area Defense Finance and Accounting Service, Kansas City Kansas City, MO-KS Metropolitan Statistical Area Defense Finance and Accounting Service, St. Louis St. Louis, MO-IL Metropolitan Statistical Area Fort Leonard Wood Fort Leonard Wood, MO Micropolitan Statistical Area Lambert International Airport- St Louis St. Louis, MO-IL Metropolitan Statistical Area Marine Corps Reserve Support Center Kansas City Kansas City, MO-KS Metropolitan Statistical Area Navy Recruiting District Kansas Kansas City, MO-KS Metropolitan Statistical Area Navy Reserve Center Cape Girardeau Cape Girardeau-Jackson, MO-IL Micropolitan Statistical Area Rosecrans Memorial Airport Air Guard Station St. Joseph, MO-KS Metropolitan Statistical Area U.S. Army Reserve Center Greentop Kirksville, MO Micropolitan Statistical Area U.S. Army Reserve Center New Kirksville Kirksville, MO Micropolitan Statistical Area U.S. Army Reserve Jefferson Barracks St. Louis, MO-IL Metropolitan Statistical Area Whiteman Air Force Base Warrensburg, MO Micropolitan Statistical Area Montana Armed Forces Reserve Center Malmstrom Air Force Base Great Falls, MT Metropolitan Statistical Area Army National Guard Reserve Center Missoula Great Falls, MT Metropolitan Statistical Area Galt Hall U.S. Army Reserve Center, Great Falls Great Falls, MT Metropolitan Statistical Area Great Falls International Airport Air Guard Station Great Falls, MT Metropolitan Statistical Area Malmstrom Air Force Base Great Falls, MT Metropolitan Statistical Area New Armed Forces Reserve Center Missoula Missoula, MT Metropolitan Statistical Area Vueve Hall & Area Maintenance Support Facility 75, Missoula Missoula, MT Metropolitan Statistical Area Nebraska Armed Forces Reserve Center Beatrice (New) Beatrice, NE Micropolitan Statistical Area
+Armed Forces Reserve Center Columbus (New) Columbus, NE Micropolitan Statistical Area Armed Forces Reserve Center McCook (New) Red Willow County, NE Army National Guard Reserve Center Beatrice Beatrice, NE Micropolitan Statistical Area Army National Guard Reserve Center Columbus Columbus, NE Micropolitan Statistical Area Army National Guard Reserve Center Crete Saline County, NE Army National Guard Reserve Center Fairbury Jefferson County, NE Army National Guard Reserve Center Falls City Richardson County, NE Army National Guard Reserve Center Grand Island Grand Island, NE Micropolitan Statistical Area
+B-56
+________________
+State Base Economic Region
+Army National Guard Reserve Center Hastings Hastings, NE Micropolitan Statistical Area Army National Guard Reserve Center Kearny Kearney, NE Micropolitan Statistical Area Army National Guard Reserve Center McCook Red Willow County, NE Greenlief TS Hasting Hastings, NE Micropolitan Statistical Area Kearney Army National Guard Kearney, NE Micropolitan Statistical Area Naval Recruiting District Omaha Omaha-Council Bluffs, NE-IA Metropolitan Statistical Area Navy Reserve Center Lincoln Lincoln, NE Metropolitan Statistical Area Offutt Air Force Base Omaha-Council Bluffs, NE-IA Metropolitan Statistical Area U.S. Army Reserve Center Hastings Hastings, NE Micropolitan Statistical Area U.S. Army Reserve Center McCook Red Willow County, NE U.S. Army Reserve Center Wymore Beatrice, NE Micropolitan Statistical Area U.S. Army Reserve Columbus Columbus, NE Micropolitan Statistical Area Nevada Hawthorne Army Depot Reno-Sparks, NV Metropolitan Statistical Area
+Naval Air Station Fallon Fallon, NV Micropolitan Statistical Area Nellis Air Force Base Las Vegas-Paradise, NV Metropolitan Statistical Area Reno-Tahoe International Airport Air Guard Station Reno-Sparks, NV Metropolitan Statistical Area New Hampshire Armed Forces Reserve Center Pease Air Force Base Rockingham County-Strafford County, NH Metropolitan Division Army National Guard Reserve Center Dover Rockingham County-Strafford County, NH Metropolitan Division Army National Guard Reserve Center Portsmouth Rockingham County-Strafford County, NH Metropolitan Division Army National Guard Reserve Center Rochester Rockingham County-Strafford County, NH Metropolitan Division Army National Guard Reserve Center Somersworth Rockingham County-Strafford County, NH Metropolitan Division Doble U.S. Army Reserve Center Portsmouth Rockingham County-Strafford County, NH Metropolitan Division Pease International Rockingham County-Strafford County, NH Metropolitan Division New Jersey Armed Forces Reserve Center Camden (New) Camden, NJ Metropolitan Division Army National Guard Reserve Center Burlington Camden, NJ Metropolitan Division Atlantic City International Airport Air Guard Station Atlantic City, NJ Metropolitan Statistical Area Fort Dix Camden, NJ Metropolitan Division Fort Monmouth Edison, NJ Metropolitan Division Kilmer U.S. Army Reserve Center, Edison Edison, NJ Metropolitan Division Marine Corps Reseve Center West Trenton Trenton-Ewing, NJ Metropolitan Statistical Area McGuire Air Force Base Camden, NJ Metropolitan Division Naval Air Engineering Station Lakehurst Edison, NJ Metropolitan Division Naval Aviation Engineering Station Lakehurst Edison, NJ Metropolitan Division Naval Weapons Station Earle Edison, NJ Metropolitan Division Picatinny Arsenal Newark-Union, NJ-PA Metropolitan Division SFC Nelson B. Brittin U.S. Army Reserve Center Camden, NJ Metropolitan Division x Local - Trenton Trenton-Ewing, NJ Metropolitan Statistical Area New Mexico Armed Forces Reserve Center Kirtland Air Force Base Albuquerque, NM Metropolitan Statistical Area
+Cannon Air Force Base Clovis, NM Micropolitan Statistical Area Holloman Air Force Base Alamogordo, NM Micropolitan Statistical Area Jenkins Armed Forces Reserve Center Albuquerque Albuquerque, NM Metropolitan Statistical Area Kirtland Air Force Base Albuquerque, NM Metropolitan Statistical Area White Sands Missile Range Las Cruces, NM Metropolitan Statistical Area
+B-57
+________________
+State Base Economic Region New York Armed Forces Reserve Center Amityville Nassau-Suffolk, NY Metropolitan Division
+Armed Forces Reserve Center Stewart (New) Poughkeepsie-Newburgh-Middletown, NY Metropolitan Statistical Area Army National Guard NC Riverhead Nassau-Suffolk, NY Metropolitan Division Army National Guard Organizational Maintence Site 21 Bayshore Nassau-Suffolk, NY Metropolitan Division Army National Guard Reserve Center Niagara Falls Buffalo-Niagara Falls, NY Metropolitan Statistical Area Army National Guard Reserve Center (Bedford) Brooklyn New York-Wayne-White Plains, NY-NJ Metropolitan Division Army National Guard Reserve Center Freeport Nassau-Suffolk, NY Metropolitan Division Army National Guard Reserve Center Huntington Station Nassau-Suffolk, NY Metropolitan Division Army National Guard Reserve Center Newburgh Poughkeepsie-Newburgh-Middletown, NY Metropolitan Statistical Area Army National Guard Reserve Center Patchogue Nassau-Suffolk, NY Metropolitan Division Carpenter U.S. Army Reserve Center,Poughkeepie Poughkeepsie-Newburgh-Middletown, NY Metropolitan Statistical Area Defense Finance and Accounting Service, Rome Utica-Rome, NY Metropolitan Statistical Area Fort Hamilton New York-Wayne-White Plains, NY-NJ Metropolitan Division Fort Tilden U.S. Army Reserve Center Far Rockaway New York-Wayne-White Plains, NY-NJ Metropolitan Division Fort Totten / Pyle New York-Wayne-White Plains, NY-NJ Metropolitan Division Marcy Army National Guard Reserve Center Brooklyn New York-Wayne-White Plains, NY-NJ Metropolitan Division McDonald U.S. Army Reserve Center, Jamaica New York-Wayne-White Plains, NY-NJ Metropolitan Division Muller U.S. Army Reserve Center Bronx New York-Wayne-White Plains, NY-NJ Metropolitan Division Navy Recruiting District Buffalo Buffalo-Niagara Falls, NY Metropolitan Statistical Area Navy Reserve Center Glenn Falls Glens Falls, NY Metropolitan Statistical Area Navy Reserve Center Horsehead Elmira, NY Metropolitan Statistical Area Navy Reserve Center Watertown Watertown-Fort Drum, NY Micropolitan Statistical Area New Joint Armed Forces Reserve Center Nassau-Suffolk, NY Metropolitan Division Niagara Falls International Airport Air Guard Station Buffalo-Niagara Falls, NY Metropolitan Statistical Area Rome Laboratory Utica-Rome, NY Metropolitan Statistical Area Roosevelt U.S. Army Reserve Center Uniondale Nassau-Suffolk, NY Metropolitan Division Schenectady County Air Guard Station Albany-Schenectady-Troy, NY Metropolitan Statistical Area U.S. Army Reserve Center Area Maintenance Support Facility Niagara Falls Buffalo-Niagara Falls, NY Metropolitan Statistical Area U.S. Army Reserve Stewart-Newburgh Poughkeepsie-Newburgh-Middletown, NY Metropolitan Statistical Area United States Military Academy Poughkeepsie-Newburgh-Middletown, NY Metropolitan Statistical Area Watervliet Arsenal Albany-Schenectady-Troy, NY Metropolitan Statistical Area North Carolina Armed Forces Reserve Center Wilmington -New Wilmington, NC Metropolitan Statistical Area
+Army Research Office, Durham Durham, NC Metropolitan Statistical Area Charlotte/Douglas Charlotte-Gastonia-Concord, NC-SC Metropolitan Statistical Area Fort Bragg Fayetteville, NC Metropolitan Statistical Area Marine Corps Air Station Cherry Point New Bern, NC Micropolitan Statistical Area Marine Corps Base Camp Lejeune Jacksonville, NC Metropolitan Statistical Area MCAS Cherry Point New Bern, NC Micropolitan Statistical Area Navy Reserve Center Asheville Asheville, NC Metropolitan Statistical Area Niven U.S. Army Reserve Center, Albermarle Albemarle, NC Micropolitan Statistical Area Pope Air Force Base Fayetteville, NC Metropolitan Statistical Area Rhodes Armed Forces Reserve Center, Wilmington Wilmington, NC Metropolitan Statistical Area
+B-58
+________________
+State Base Economic Region
+Seymore Johnson Air Force Base Goldsboro, NC Metropolitan Statistical Area North Dakota Fargo, ND Armed Forces Reserve Center Fargo, ND-MN Metropolitan Statistical Area
+Grand Forks Air Force Base Grand Forks, ND-MN Metropolitan Statistical Area Hector International Airport Air Guard Station Fargo, ND-MN Metropolitan Statistical Area Johnson U.S. Army Reserve Center, Fargo Fargo, ND-MN Metropolitan Statistical Area Ohio AFRC Mansfield ANG B Mansfield, OH Metropolitan Statistical Area
+Air National Guard Springfield Armed Forces Reserve Center Springfield, OH Metropolitan Statistical Area Armed Forces Reserve Center Akron Akron, OH Metropolitan Statistical Area Army National Guard Reserve Center Oxford Cincinnati-Middletown, OH-KY-IN Metropolitan Statistical Area Army National Guard Reserve Center Springfield Springfield, OH Metropolitan Statistical Area Army National Guard Reserve Center Ashland Ashland, OH Micropolitan Statistical Area Army National Guard Reserve Center Mansfield Mansfield, OH Metropolitan Statistical Area Army National Guard Reserve Center Newark Columbus, OH Metropolitan Statistical Area Army National Guard Reserve Center Westerville Columbus, OH Metropolitan Statistical Area Defense Finance and Accounting Service, Cleveland Cleveland-Elyria-Mentor, OH Metropolitan Statistical Area Defense Finance and Accounting Service, Dayton Dayton, OH Metropolitan Statistical Area Defense Supply Center Columbus Columbus, OH Metropolitan Statistical Area DSCC Armed Forces Reserve Center Columbus, OH Metropolitan Statistical Area Fort Hayes U.S. Army Reserve Center Columbus Columbus, OH Metropolitan Statistical Area Fort Lewis Lima, OH Metropolitan Statistical Area Glenn Research Center Dayton, OH Metropolitan Statistical Area Howey Army National Guard Columbus Columbus, OH Metropolitan Statistical Area Leased Space - OH Columbus, OH Metropolitan Statistical Area Mansfield Lahm MAP Air Guard Station Mansfield, OH Metropolitan Statistical Area Navy-Marine Corps Reseve Center Akron Akron, OH Metropolitan Statistical Area Navy-Marine Corps Reseve Center Cleveland Cleveland-Elyria-Mentor, OH Metropolitan Statistical Area Parrott U.S. Army Reserve Center Kenton Hardin County, OH Rickenbacker Army National Guard Bldg 943 Columbus Columbus, OH Metropolitan Statistical Area Rickenbacker International Airport Air Guard Station Columbus, OH Metropolitan Statistical Area Scouten U.S. Army Reserve Center Mansfield Mansfield, OH Metropolitan Statistical Area Springfield-Beckley Municipal Airport Air Guard Station Springfield, OH Metropolitan Statistical Area Sullivant Army National Guard Columbus Columbus, OH Metropolitan Statistical Area Toledo Express Airport Air Guard Station Toledo, OH Metropolitan Statistical Area U.S. Army Reserve Center Springfield Springfield, OH Metropolitan Statistical Area U.S. Army Reserve Center Whitehall Columbus, OH Metropolitan Statistical Area Wright Patterson Air Force Base Dayton, OH Metropolitan Statistical Area Youngstown-Warren Regional Airport Youngstown-Warren-Boardman, OH-PA Metropolitan Statistical Area
+Oklahoma
+23rd Street Army National Guard Organizational Maintenance Site Oklahoma City Oklahoma City, OK Metropolitan Statistical Area 23rd Street Army National Guard Reserve Center Oklahoma City Oklahoma City, OK Metropolitan Statistical Area 44th St Army National Guard Reserve Center Oklahoma City Oklahoma City, OK Metropolitan Statistical Area Altus Air Force Base Altus, OK Micropolitan Statistical Area Armed Forces Reserve Center Broken Arrow Tulsa, OK Metropolitan Statistical Area
+B-59
+________________
+State Base Economic Region
+Armed Forces Reserve Center Muskogee Muskogee, OK Micropolitan Statistical Area Armed Forces Reserve Center Vance Air Force Base Enid, OK Micropolitan Statistical Area Armed Forces Reserve Center West Oklahoma City Oklahoma City, OK Metropolitan Statistical Area Army National Guard Field Maintenance Shop #5 Durant Durant, OK Micropolitan Statistical Area Army National Guard Field Maintenance Shop 14 Okmulgee Tulsa, OK Metropolitan Statistical Area Army National Guard Field Maintenance Shop Edmond Oklahoma City, OK Metropolitan Statistical Area Army National Guard Field Maintenance Shop Enid Enid, OK Micropolitan Statistical Area Army National Guard Reserve Center Cherokee Alfalfa County, OK Army National Guard Reserve Center / Combined Support Maintenance Shop Norman Oklahoma City, OK Metropolitan Statistical Area Army National Guard Reserve Center Allen Hughes County, OK Army National Guard Reserve Center Alva Woods County, OK Army National Guard Reserve Center Anadarko Caddo County, OK Army National Guard Reserve Center Atoka Atoka County, OK Army National Guard Reserve Center Blackwell Ponca City, OK Micropolitan Statistical Area Army National Guard Reserve Center Broken Arrow RC Tulsa, OK Metropolitan Statistical Area Army National Guard Reserve Center Chickasha Oklahoma City, OK Metropolitan Statistical Area Army National Guard Reserve Center Cushing Stillwater, OK Micropolitan Statistical Area Army National Guard Reserve Center Edmond Oklahoma City, OK Metropolitan Statistical Area Army National Guard Reserve Center El Reno Oklahoma City, OK Metropolitan Statistical Area Army National Guard Reserve Center Enid Enid, OK Micropolitan Statistical Area Army National Guard Reserve Center Eufaula McIntosh County, OK Army National Guard Reserve Center Frederick Tillman County, OK Army National Guard Reserve Center Hartshorne McAlester, OK Micropolitan Statistical Area Army National Guard Reserve Center Haskell Muskogee, OK Micropolitan Statistical Area Army National Guard Reserve Center Healdton Ardmore, OK Micropolitan Statistical Area Army National Guard Reserve Center Henryetta Tulsa, OK Metropolitan Statistical Area Army National Guard Reserve Center Konowa Seminole County, OK Army National Guard Reserve Center Lawton Lawton, OK Metropolitan Statistical Area Army National Guard Reserve Center Madilla Marshall County, OK Army National Guard Reserve Center Marlow Duncan, OK Micropolitan Statistical Area Army National Guard Reserve Center McAlester McAlester, OK Micropolitan Statistical Area Army National Guard Reserve Center Midwest City Oklahoma City, OK Metropolitan Statistical Area Army National Guard Reserve Center Minco Oklahoma City, OK Metropolitan Statistical Area Army National Guard Reserve Center Muskogee Muskogee, OK Micropolitan Statistical Area Army National Guard Reserve Center Norman Oklahoma City, OK Metropolitan Statistical Area Army National Guard Reserve Center Okemah Okfuskee County, OK Army National Guard Reserve Center Okmulgee Tulsa, OK Metropolitan Statistical Area Army National Guard Reserve Center Pawnee Tulsa, OK Metropolitan Statistical Area Army National Guard Reserve Center Pryor Mayes County, OK Army National Guard Reserve Center Stilwell Adair County, OK Army National Guard Reserve Center Tishomingo Johnston County, OK Army National Guard Reserve Center Tonkawa Ponca City, OK Micropolitan Statistical Area
+B-60
+________________
+State Base Economic Region
+Army National Guard Reserve Center Wagoner Tulsa, OK Metropolitan Statistical Area Army National Guard Reserve Center Walters Cotton County, OK Army National Guard Reserve Center Watonga Blaine County, OK Army National Guard Reserve Center Wewoka Seminole County, OK Army National Guard Reserve Center Woodward Woodward, OK Micropolitan Statistical Area Army National Guard Reserve CenterTahlequah Tahlequah, OK Micropolitan Statistical Area Ashworth U.S. Army Reserve Center Muskogee Muskogee, OK Micropolitan Statistical Area Burris U.S. Army Reserve Center Chikasha Oklahoma City, OK Metropolitan Statistical Area Duncan Army National Guard Duncan, OK Micropolitan Statistical Area Farr U.S. Army Reserve Center, Antlers Pushmataha County, OK Floyd Parker U.S. Army Reserve Center, McAlester McAlester, OK Micropolitan Statistical Area Fort Sill Lawton, OK Metropolitan Statistical Area Keathley U.S. Army Reserve Center Lawton Lawton, OK Metropolitan Statistical Area Krowse U.S. Army Reserve Center Oklahoma City Oklahoma City, OK Metropolitan Statistical Area McAlester Army Ammunition Plant McAlester, OK Micropolitan Statistical Area Navy-Marine Corps Reseve Center Tulsa Tulsa, OK Metropolitan Statistical Area Norman Military Complex Oklahoma City, OK Metropolitan Statistical Area Oklahoma City (95th) Oklahoma City, OK Metropolitan Statistical Area Perez U.S. Army Reserve Center Oklahoma City Oklahoma City, OK Metropolitan Statistical Area Robbins U.S. Army Reserve Center, Enid Enid, OK Micropolitan Statistical Area Roush U.S. Army Reserve Center, Clinton Bartlesville, OK Micropolitan Statistical Area Smalley U.S. Army Reserve Center, Norman Oklahoma City, OK Metropolitan Statistical Area Tinker Air Force Base Oklahoma City, OK Metropolitan Statistical Area Tulsa International Airport Air Guard Station Tulsa, OK Metropolitan Statistical Area U.S. Army Reserve Center Broken Arrow Tulsa, OK Metropolitan Statistical Area Vance Air Force Base Enid, OK Micropolitan Statistical Area Will Rogers World Airport Air Guard Station Oklahoma City, OK Metropolitan Statistical Area Oregon Armed Forces Reserve Center Camp With (New) Portland-Vancouver-Beaverton, OR-WA Metropolitan Statistical Area Army National Guard Reserve Center Camp Withycombe Portland-Vancouver-Beaverton, OR-WA Metropolitan Statistical Area Army National Guard Reserve Center Jackson Band Portland-Vancouver-Beaverton, OR-WA Metropolitan Statistical Area Army National Guard Reserve Center Lake Oswego Portland-Vancouver-Beaverton, OR-WA Metropolitan Statistical Area Army National Guard Reserve Center Maison Portland-Vancouver-Beaverton, OR-WA Metropolitan Statistical Area Navy Reserve Center Central Point Medford, OR Metropolitan Statistical Area Portland International Airport Air Guard Station Portland-Vancouver-Beaverton, OR-WA Metropolitan Statistical Area Sears U.S. Army Reserve Center, Portland Portland-Vancouver-Beaverton, OR-WA Metropolitan Statistical Area Sharff U.S. Army Reserve Center, Portland Portland-Vancouver-Beaverton, OR-WA Metropolitan Statistical Area Umatilla Army Depot Pendleton-Hermiston, OR Micropolitan Statistical Area Pennsylvania Armed Forces Reserve Center Chester-Ger Philadelphia, PA Metropolitan Division
+Armed Forces Reserve Center Lewisburg Lewisburg, PA Micropolitan Statistical Area Armed Forces Reserve Center Scranton Scranton--Wilkes-Barre, PA Metropolitan Statistical Area Armed Forces Reserve Center Williamsport Williamsport, PA Metropolitan Statistical Area Army National Guard Reserve Center Berwick Bloomsburg-Berwick, PA Micropolitan Statistical Area Army National Guard Reserve Center Lewisburg Lewisburg, PA Micropolitan Statistical Area
+B-61
+________________
+State Base Economic Region
+Army National Guard Reserve Center Sunbury Sunbury, PA Micropolitan Statistical Area Army National Guard Reserve Center Williamsport Williamsport, PA Metropolitan Statistical Area Bristol (New) Philadelphia, PA Metropolitan Division Bristol U.S. Army Reserve Center, Philadelphia Philadelphia, PA Metropolitan Division Bristol-Woodhaven OMS, Philadelphia Philadelphia, PA Metropolitan Division Defense Distribution Depot Susquehanna Harrisburg-Carlisle, PA Metropolitan Statistical Area Engineering Field Activity Northeast Philadelphia, PA Metropolitan Division Germantown U.S. Army Reserve Center Philadelphia Philadelphia, PA Metropolitan Division Human Resources Support Center Northeast Philadelphia, PA Metropolitan Division Kelly Support Center Pittsburgh, PA Metropolitan Statistical Area Leased Space - PA (is this leased)? Philadelphia, PA Metropolitan Division Letterkenny Army Depot Chambersburg, PA Micropolitan Statistical Area Marine Corps Reseve Center Johnstown Johnstown, PA Metropolitan Statistical Area Musselman U.S. Army Reserve Center, Norristown Philadelphia, PA Metropolitan Division Naval Air Station Willow Grove Philadelphia, PA Metropolitan Division Naval Support Activity Mechanicsburg Harrisburg-Carlisle, PA Metropolitan Statistical Area Naval Support Activity Philadelphia Philadelphia, PA Metropolitan Division Navy Crane Center Lester Philadelphia, PA Metropolitan Division Navy-Marine Corps Reseve Center Lehigh Allentown-Bethlehem-Easton, PA-NJ Metropolitan Statistical Area Navy-Marine Corps Reseve Center Pittsburgh Pittsburgh, PA Metropolitan Statistical Area Navy-Marine Corps Reseve Center Reading Reading, PA Metropolitan Statistical Area New Joint AFRC Philadelphia, PA Metropolitan Division North Penn U.S. Army Reserve Center, Norristown Philadelphia, PA Metropolitan Division Pitt U.S. Army Reserve Center, Corapolis Pittsburgh, PA Metropolitan Statistical Area Pittsburgh International Airport ARS Pittsburgh, PA Metropolitan Statistical Area Serrenti U.S. Army Reserve Center, Scranton Scranton--Wilkes-Barre, PA Metropolitan Statistical Area Tobyhanna Army Depot Scranton--Wilkes-Barre, PA Metropolitan Statistical Area U.S. Army Reserve /Organizational Maintence Site Wilkes-Barre, Scranton--Wilkes-Barre, PA Metropolitan Statistical Area U.S. Army Reserve Center Bloomsburg Bloomsburg-Berwick, PA Micropolitan Statistical Area U.S. Army Reserve Center Horsham Philadelphia, PA Metropolitan Division U.S. Army Reserve Center Lewisburg Lewisburg, PA Micropolitan Statistical Area U.S. Army Reserve Organizational Maintence Site Scranton Scranton--Wilkes-Barre, PA Metropolitan Statistical Area U.S. Army Reserve Williamsport Williamsport, PA Metropolitan Statistical Area W. Reese U.S. Army Reserve Center/OMS, Chester Philadelphia, PA Metropolitan Division Wilson-Kramer U.S. Army Reserve Center, Bethlehem Allentown-Bethlehem-Easton, PA-NJ Metropolitan Statistical Area Puerto Rico Armed Forces Reserve Center Ceiba (New) Fajardo, PR Metropolitan Statistical Area
+Armed Forces Reserve Center Mayaguez (New) Mayagnez, PR Metropolitan Statistical Area Army National Guard Reserve Center Ceiba Fajardo, PR Metropolitan Statistical Area Army National Guard Reserve Center Humacao San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area Army National Guard Reserve Center Juncos San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area Army National Guard Reserve Center Mayaguez Mayagnez, PR Metropolitan Statistical Area Fort Allen (New) Ponce, PR Metropolitan Statistical Area Fort Allen, Juana Diaz Ponce, PR Metropolitan Statistical Area
+B-62
+________________
+State Base Economic Region
+Fort Buchanan San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area Lavergne U.S. Army Reserve Center Bayamon San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area Rubio / Pt Nuevo San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area San Juan Center Ponce, PR Metropolitan Statistical Area U.S. Army Reserve Center Ramey Aguadilla-Isabela-San Sebastian, PR Metropolitan Statistical Area U.S. Army Reserve Center Rubio San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area Rhode Island Armed Forces Reserve Center NS Newport Providence-New Bedford-Fall River, RI-MA Metropolitan Statistical Area Bristol U.S. Army Reserve Center Providence-New Bedford-Fall River, RI-MA Metropolitan Statistical Area Harwood U.S. Army Reserve Center, Providence Providence-New Bedford-Fall River, RI-MA Metropolitan Statistical Area Naval Station Newport Providence-New Bedford-Fall River, RI-MA Metropolitan Statistical Area Quonset State Airport AG Providence-New Bedford-Fall River, RI-MA Metropolitan Statistical Area Quonset State Airport Air Guard Station Providence-New Bedford-Fall River, RI-MA Metropolitan Statistical Area U.S. Army Reserve Center / Organizational Maintence Site Warwick Providence-New Bedford-Fall River, RI-MA Metropolitan Statistical Area South Carolina Charleston Air Force Base Charleston-North Charleston, SC Metropolitan Statistical Area Defense Finance and Accounting Service, Charleston Charleston-North Charleston, SC Metropolitan Statistical Area Fort Jackson Columbia, SC Metropolitan Statistical Area McEntire Air Guard Station Columbia, SC Metropolitan Statistical Area Naval Weapons Station Charleston Charleston-North Charleston, SC Metropolitan Statistical Area Rock Hill U.S. Army Reserve Center Charlotte-Gastonia-Concord, NC-SC Metropolitan Statistical Area Shaw Air Force Base Sumter, SC Metropolitan Statistical Area South Naval Facilities Engineering Command Charleston-North Charleston, SC Metropolitan Statistical Area South Dakota Ellsworth Air Force Base Rapid City, SD Metropolitan Statistical Area Joe Foss Field Air Guard Station Sioux Falls, SD Metropolitan Statistical Area Tennessee Armed Forces Reserve Center Kingsport Kingsport-Bristol-Bristol, TN-VA Metropolitan Statistical Area Armed Forces Reserve Center New Kingsport A Kingsport-Bristol-Bristol, TN-VA Metropolitan Statistical Area Armed Forces Reserve Center Volunteer Army Ammunition Plant Chattanooga Chattanooga, TN-GA Metropolitan Statistical Area Army National Guard Reserve Center Clarksville Clarksville, TN-KY Metropolitan Statistical Area Bonney Oaks U.S. Army Reserve Center,Chattanooga Chattanooga, TN-GA Metropolitan Statistical Area Guery U.S. Army Reserve Center, Chattanooga Chattanooga, TN-GA Metropolitan Statistical Area McGee Tyson Airport Air Guard Station Knoxville, TN Metropolitan Statistical Area McGee Tyson APT Air Guard Station Knoxville, TN Metropolitan Statistical Area Memphis International Airport Air Guard Station Memphis, TN-MS-AR Metropolitan Statistical Area Milan Army Ammunition Plant Humboldt, TN Micropolitan Statistical Area Nashville International Airport Air Guard Station Nashville-Davidson--Murfreesboro, TN Metropolitan Statistical Area Naval Support Activity Mid South Memphis, TN-MS-AR Metropolitan Statistical Area U.S. Army Reserve Area Maintenance Support Facility Kingsport Kingsport-Bristol-Bristol, TN-VA Metropolitan Statistical Area U.S. Army Reserve Lease Clarksville, TN-KY Metropolitan Statistical Area U.S. Army Reserve Organizational Maintence Site Kingsport Kingsport-Bristol-Bristol, TN-VA Metropolitan Statistical Area Texas 51st Street Army National Guard Field Maintenance Shop, Austin Austin-Round Rock, TX Metropolitan Statistical Area
+Amarillo Army National Guard Amarillo, TX Metropolitan Statistical Area Armed Forces Reserve Center Amarillo Amarillo, TX Metropolitan Statistical Area Armed Forces Reserve Center Brownsville Brownsville-Harlingen, TX Metropolitan Statistical Area
+B-63
+________________
+State Base Economic Region
+Armed Forces Reserve Center East Houston Houston-Baytown-Sugar Land, TX Metropolitan Statistical Area Armed Forces Reserve Center Grand Prairie Dallas-Plano-Irving, TX Metropolitan Division Armed Forces Reserve Center Huntsville (New) Huntsville, TX Micropolitan Statistical Area Armed Forces Reserve Center Lewisville Dallas-Plano-Irving, TX Metropolitan Division Armed Forces Reserve Center Lufkin Lufkin, TX Micropolitan Statistical Area Armed Forces Reserve Center San Marcos Austin-Round Rock, TX Metropolitan Statistical Area Armed Forces Reserve Center Seagoville Dallas-Plano-Irving, TX Metropolitan Division Armed Forces Reserve Center Tyler Tyler, TX Metropolitan Statistical Area Armed Forces Reserve Round Rock( New) Austin-Round Rock, TX Metropolitan Statistical Area Army National Guard Field Maintenance Shop Ellington Houston-Baytown-Sugar Land, TX Metropolitan Statistical Area Army National Guard Field Maintenance Shop Marshall Marshall, TX Micropolitan Statistical Area Army National Guard Field Maintenance Shop Port Neches Palestine, TX Micropolitan Statistical Area Army National Guard Field Maintenance Shop, Abilene Abilene, TX Metropolitan Statistical Area Army National Guard Organizational Maintence Site Terrell Dallas-Plano-Irving, TX Metropolitan Division Army National Guard Reserve Center # 2 Dallas Dallas-Plano-Irving, TX Metropolitan Division Army National Guard Reserve Center # 4 Austin Austin-Round Rock, TX Metropolitan Statistical Area Army National Guard Reserve Center (Hondo Pass) El Paso El Paso, TX Metropolitan Statistical Area Army National Guard Reserve Center Abilene Abilene, TX Metropolitan Statistical Area Army National Guard Reserve Center Alice Alice, TX Micropolitan Statistical Area Army National Guard Reserve Center Arlington Fort Worth-Arlington, TX Metropolitan Division Army National Guard Reserve Center Athens Athens, TX Micropolitan Statistical Area Army National Guard Reserve Center Atlanta Cass County, TX Army National Guard Reserve Center Baytown Houston-Baytown-Sugar Land, TX Metropolitan Statistical Area Army National Guard Reserve Center Beaumont Beaumont-Port Arthur, TX Metropolitan Statistical Area Army National Guard Reserve Center Brownsville Brownsville-Harlingen, TX Metropolitan Statistical Area Army National Guard Reserve Center California Crossing Dallas-Plano-Irving, TX Metropolitan Division Army National Guard Reserve Center Coleman Coleman County, TX Army National Guard Reserve Center Corsicana Corsicana, TX Micropolitan Statistical Area Army National Guard Reserve Center Denison Sherman-Denison, TX Metropolitan Statistical Area Army National Guard Reserve Center Denton Dallas-Plano-Irving, TX Metropolitan Division Army National Guard Reserve Center Ellington Houston-Baytown-Sugar Land, TX Metropolitan Statistical Area Army National Guard Reserve Center Henderson Longview, TX Metropolitan Statistical Area Army National Guard Reserve Center Hondo San Antonio, TX Metropolitan Statistical Area Army National Guard Reserve Center Huntsville Huntsville, TX Micropolitan Statistical Area Army National Guard Reserve Center Irving Dallas-Plano-Irving, TX Metropolitan Division Army National Guard Reserve Center Kaufman Dallas-Plano-Irving, TX Metropolitan Division Army National Guard Reserve Center Kilgore Longview, TX Metropolitan Statistical Area Army National Guard Reserve Center Kingsville Kingsville, TX Micropolitan Statistical Area Army National Guard Reserve Center Lufkin Lufkin, TX Micropolitan Statistical Area Army National Guard Reserve Center Marshall Marshall, TX Micropolitan Statistical Area Army National Guard Reserve Center Nacogdoches Nacogdoches, TX Micropolitan Statistical Area Army National Guard Reserve Center New Braunfels San Antonio, TX Metropolitan Statistical Area Army National Guard Reserve Center Orange Beaumont-Port Arthur, TX Metropolitan Statistical Area
+B-64
+________________
+State Base Economic Region
+Army National Guard Reserve Center Pampa Pampa, TX Micropolitan Statistical Area Army National Guard Reserve Center Pasadena Houston-Baytown-Sugar Land, TX Metropolitan Statistical Area Army National Guard Reserve Center Port Arthur Beaumont-Port Arthur, TX Metropolitan Statistical Area Army National Guard Reserve Center Port Neches Beaumont-Port Arthur, TX Metropolitan Statistical Area Army National Guard Reserve Center San Marcos Austin-Round Rock, TX Metropolitan Statistical Area Army National Guard Reserve Center Seguin San Antonio, TX Metropolitan Statistical Area Army National Guard Reserve Center Snyder Snyder, TX Micropolitan Statistical Area Army National Guard Reserve Center Taylor Austin-Round Rock, TX Metropolitan Statistical Area Army National Guard Reserve Center Terrell Dallas-Plano-Irving, TX Metropolitan Division Army National Guard Reserve Center Texarkana Texarkana, TX-Texarkana, AR Metropolitan Statistical Area Army National Guard Reserve Center Tyler Tyler, TX Metropolitan Statistical Area Brooks City-Base San Antonio, TX Metropolitan Statistical Area Carswell ARS, Naval Air Station Fo Fort Worth-Arlington, TX Metropolitan Division Corpus Christi Army Depot Corpus Christi, TX Metropolitan Statistical Area Defense Finance and Accounting Service, San Antonio San Antonio, TX Metropolitan Statistical Area Dyess Air Force Base Abilene, TX Metropolitan Statistical Area Ellington Field AGS Houston-Baytown-Sugar Land, TX Metropolitan Statistical Area Fort Bliss El Paso, TX Metropolitan Statistical Area Fort Hood Killeen-Temple-Fort Hood, TX Metropolitan Statistical Area Fort Sam Houston San Antonio, TX Metropolitan Statistical Area Grimes U.S. Army Reserve Center, Abilene Grimes County, TX Guillot U.S. Army Reserve Center, Texarkana Texarkana, TX-Texarkana, AR Metropolitan Statistical Area Hale Army National Guard Reserve Center, Plainview Plainview, TX Micropolitan Statistical Area Hanby-Hayden U.S. Army Reserve Center, Mesquite Dallas-Plano-Irving, TX Metropolitan Division Herzog U.S. Army Reserve, Dallas Dallas-Plano-Irving, TX Metropolitan Division Houston # 2 USARC Houston-Baytown-Sugar Land, TX Metropolitan Statistical Area Houston # 3 USARC Houston-Baytown-Sugar Land, TX Metropolitan Statistical Area Lackland Air Force Base San Antonio, TX Metropolitan Statistical Area Laughlin Air Force Base Del Rio, TX Micropolitan Statistical Area Leased Space - TX San Antonio, TX Metropolitan Statistical Area Lone Star Army Ammunition Plant Texarkana, TX-Texarkana, AR Metropolitan Statistical Area Miller U.S. Army Reserve Center, Huntsville Huntsville, TX Micropolitan Statistical Area Muchert U.S. Army Reserve Center Dallas Dallas-Plano-Irving, TX Metropolitan Division Naval Air Station Corpus Christi Corpus Christi, TX Metropolitan Statistical Area Naval Air Station Joint Reserve Base Ft. Worth Fort Worth-Arlington, TX Metropolitan Division Naval Air Station Kingsville Kingsville, TX Micropolitan Statistical Area Naval Station Ingleside Corpus Christi, TX Metropolitan Statistical Area Navy Reserve Center Lubbock, TX Lubbock, TX Metropolitan Statistical Area Navy Reserve Center Orange,TX Beaumont-Port Arthur, TX Metropolitan Statistical Area NW Houston Armed Forces Reserve Center Houston-Baytown-Sugar Land, TX Metropolitan Statistical Area Randolph Air Force Base San Antonio, TX Metropolitan Statistical Area Rathjen U.S. Army Reserve Center, Brownsville Brownsville-Harlingen, TX Metropolitan Statistical Area Red River Army Depot Texarkana, TX-Texarkana, AR Metropolitan Statistical Area
+B-65
+________________
+State Base Economic Region
+Sheppard Air Force Base Wichita Falls, TX Metropolitan Statistical Area Tharp U.S. Army Reserve Center Amarillo, TX Metropolitan Statistical Area U.S. Army Reserve Center Alice Alice, TX Micropolitan Statistical Area U.S. Army Reserve Center Benavidez Duval County, TX U.S. Army Reserve Center Boswell San Antonio, TX Metropolitan Statistical Area U.S. Army Reserve Center Callaghan San Antonio, TX Metropolitan Statistical Area U.S. Army Reserve Center Lufkin Lufkin, TX Micropolitan Statistical Area U.S. Army Reserve Center Marshall Marshall, TX Micropolitan Statistical Area U.S. Army Reserve Center Naval Air Station Kingsville Kingsville, TX Micropolitan Statistical Area U.S. Army Reserve Center Pasadena Houston-Baytown-Sugar Land, TX Metropolitan Statistical Area U.S. Army Reserve Center Round Rock Austin-Round Rock, TX Metropolitan Statistical Area U.S. Army Reserve Center San Marcos Austin-Round Rock, TX Metropolitan Statistical Area U.S. Army Reserve Center Segura El Paso, TX Metropolitan Statistical Area U.S. Army Reserve Center Tyler Tyler, TX Metropolitan Statistical Area U.S. Army Reserve Center Wichita Falls Wichita Falls, TX Metropolitan Statistical Area Utah Deseret Chemical Depot Salt Lake City, UT Metropolitan Statistical Area Fort Douglas Salt Lake City, UT Metropolitan Statistical Area Hill Air Force Base Ogden-Clearfield, UT Metropolitan Statistical Area Tooele Army Depot Salt Lake City, UT Metropolitan Statistical Area Vermont Armed Forces Reserve Center New Rutland Rutland, VT Micropolitan Statistical Area
+Armed Forces Reserve Center White River Jct Lebanon, NH-VT Micropolitan Statistical Area Army National Guard Reserve Center Ludlow Lebanon, NH-VT Micropolitan Statistical Area Army National Guard Reserve Center North Springfield Lebanon, NH-VT Micropolitan Statistical Area Army National Guard Reserve Center Rutland Rutland, VT Micropolitan Statistical Area Army National Guard Reserve Center Windsor Lebanon, NH-VT Micropolitan Statistical Area Burlington International Airport Air Guard Station Burlington-South Burlington, VT Metropolitan Statistical Area Courcelle Brothers U.S. Army Reserve Center, Rutland Rutland, VT Micropolitan Statistical Area U.S. Army Reserve Area Maintenance Support Facility #160, Rutland Rutland, VT Micropolitan Statistical Area U.S. Army Reserve Center Berlin Barre, VT Micropolitan Statistical Area U.S. Army Reserve Center Chester Lebanon, NH-VT Micropolitan Statistical Area Virginia Center for Naval Research Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division Defense Finance and Accounting Service, Arlington Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division Defense Supply Center Richmond Richmond, VA Metropolitan Statistical Area Fort Belvoir Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division Fort Eustis Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area Fort Lee Richmond, VA Metropolitan Statistical Area Fort Monroe Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area Fort Myer Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division Headquarters Battalion, Headquarters Marine Corps, Henderson Hall Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division Langley Air Force Base Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area Langley Research Center Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area Leased Space - VA Richmond, VA Metropolitan Statistical Area Leased Space - VA Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area
+B-66
+________________
+State Base Economic Region
+Leased Space - VA Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division Marine Corps Base Quantico Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division Nacval Surface Warfare Center Dahlgren King George County, VA Naval Air Station Oceana Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area Naval Amphibious Base Little Creek Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area Naval Medical Center Portsmouth Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area Naval Shipyard Norfolk Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area Naval Station Norfolk Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area Naval Support Activity Norfolk Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area Naval Weapons Station Yorktown Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area Richmond International Airport Air Guard Station Richmond, VA Metropolitan Statistical Area Woodbridge Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division Washington Armed Forces Reserve Center Fairchild Spokane, WA Metropolitan Statistical Area
+Armed Forces Reserve Center Smokey Point Seattle-Bellevue-Everett, WA Metropolitan Division Army National Guard RC Geiger Field Spokane, WA Metropolitan Statistical Area Army National Guard Reserve Center Ellensburg Ellensburg, WA Micropolitan Statistical Area Army National Guard Reserve Center Everett Seattle-Bellevue-Everett, WA Metropolitan Division Army National Guard Reserve Center Snohomish Seattle-Bellevue-Everett, WA Metropolitan Division Fairchild Air Force Base Spokane, WA Metropolitan Statistical Area Fort Lawton Seattle-Bellevue-Everett, WA Metropolitan Division Fort Lewis Tacoma, WA Metropolitan Division H. Walker USAR Cente Spokane, WA Metropolitan Statistical Area Human Resources Support Center Northwest Bremerton-Silverdale, WA Metropolitan Statistical Area Mann Hall U.S. Army Reserve Center Spokane Spokane, WA Metropolitan Statistical Area McChord Air Force Base Tacoma, WA Metropolitan Division Naval Station Bremerton Bremerton-Silverdale, WA Metropolitan Statistical Area Navy-Marine Corps Reseve Center Tacoma Tacoma, WA Metropolitan Division NEW VANCOUVER Portland-Vancouver-Beaverton, OR-WA Metropolitan Statistical Area Oswald U.S. Army Reserve Center Everett Seattle-Bellevue-Everett, WA Metropolitan Division Pendleton U.S. Army Reserve Center Yakima Training Center Yakima, WA Metropolitan Statistical Area Submarine Base Bangor Bremerton-Silverdale, WA Metropolitan Statistical Area U.S. Army Reserve Area Maintenance Support Facility #80, Spokane Spokane, WA Metropolitan Statistical Area Vancover Barracks Portland-Vancouver-Beaverton, OR-WA Metropolitan Statistical Area Wagenaar U.S. Army Reserve Center Pasco Kennewick-Richland-Pasco, WA Metropolitan Statistical Area Yakima Armed Forces Reserve Center Yakima, WA Metropolitan Statistical Area West Virginia Armed Forces Reserve Center Elkins (New) Randolph County, WV
+Armed Forces Reserve Center Ripley (new) Jackson County, WV Army National Guard Reserve Center Elkins Randolph County, WV Army National Guard Reserve Center Spencer Roane County, WV Army National Guard Reserve Center Fairmont Fairmont, WV Micropolitan Statistical Area Bias U.S. Army Reserve Center, Huntington Huntington-Ashland, WV-KY-OH Metropolitan Statistical Area Colburn U.S. Army Reserve Center /Organizational Maintence Site Fairmont Fairmont, WV Micropolitan Statistical Area
+B-67
+________________
+State Base Economic Region
+Elkins U.S. Army Reserve/Organizational Maintence Site Beverly Fairmont, WV Micropolitan Statistical Area Ewvra Sheppard AGS Hagerstown-Martinsburg, MD-WV Metropolitan Statistical Area Fairmont Armed Forces Reserve Center (New) Fairmont, WV Micropolitan Statistical Area Kuhl U.S. Army Reserve Center/Organizational Maintence Site Ripley Jackson County, WV Navy-Marine Corps Reseve Center Moundsville Wheeling, WV-OH Metropolitan Statistical Area Yeager APT AGS Charleston, WV Metropolitan Statistical Area Wisconsin Armed Forces Reserve Center Madison Madison, WI Metropolitan Statistical Area Dade County Airport Madison, WI Metropolitan Statistical Area Dane County Regional Madison, WI Metropolitan Statistical Area Fort McCoy Monroe County, WI Gen Mitchell International Airport ARS Milwaukee-Waukesha-West Allis, WI Metropolitan Statistical Area MCCOY Monroe County, WI Navy Reserve Center La Crosse La Crosse, WI-MN Metropolitan Statistical Area Navy-Marine Corps Reseve Center Madison Madison, WI Metropolitan Statistical Area O'Connell U.S. Army Reserve Center, Madison Madison, WI Metropolitan Statistical Area Olson USARC Madison, WI Metropolitan Statistical Area Wyoming AASF/JFH/FMS WAFB Cheyenne, WY Metropolitan Statistical Area Army Aviation Support Facility Cheyenne Cheyenne, WY Metropolitan Statistical Area Army National Guard Reserve Center Thermopolis Hot Springs County, WY Cheyenne Airport Air Guard Station Cheyenne, WY Metropolitan Statistical Area Francis E. Warren Air Force Base Cheyenne, WY Metropolitan Statistical Area Joint Forces Headquarters Complex , Cheyenne Cheyenne, WY Metropolitan Statistical Area
+B-68
